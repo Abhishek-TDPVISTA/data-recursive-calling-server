@@ -103,10 +103,10 @@ const logFile = 'youtube_api_log.txt';
 
 async function fetchChannelData(channelId) {
   try {
-    const response = await axios.get(`https://www.googleapis.com/youtube/v3/channels`, {
+    const server_url = process.env.DATA_SERVER_URL;
+    const response = await axios.get(`${server_url}/api/v1/add_yt_influncer`, {
       params: {
-        part: 'snippet,statistics',
-        id: channelId,
+        Channel_id: channelId,
       }
     });
 
