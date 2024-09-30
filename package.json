@@ -1,0 +1,17 @@
+{
+  "name": "recursivecallingserver",
+  "version": "1.0.0",
+  "description": "server to manually add the youtube channel ID and extract data by calling the data extraction server recursively",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "fs": "^0.0.1-security"
+  }
+}
