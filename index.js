@@ -1,15 +1,10 @@
 import fs from 'fs';
 import axios from 'axios';
+import { config } from 'dotenv';
+
+config();
 
 const channelIds = [
-  'UCWt-NtWi-YB8KpXRX1oP8Vg',
-  'UChFeutaq6_XfEvYx3VEHkvQ',
-  'UCpgdy5wNn4oaME4MyzPZ9TA',
-  'UCmekdIK9GY5EufNrjmWoSoQ',
-  'UC98IYlshOXvWyXmM4eSDyNQ',
-  'UCjDpT8o2_PJq-MrWmq6VF8Q',
-  'UCnvhoDDLDjmMo5_tlEvRbxQ',
-  'UCG0i_srk6N6XgbdKt0R4P3g',
   'UCtJ7izhohOhJzOVB49UbFHQ',
   'UCQu1-14oFwXfW69HPo_t7sw',
   'UCy55ba__XkvFiAW9B78jxsw',
@@ -104,10 +99,9 @@ const logFile = 'youtube_api_log.txt';
 async function fetchChannelData(channelId) {
   try {
     const server_url = process.env.DATA_SERVER_URL;
-    const response = await axios.get(`${server_url}/api/v1/add_yt_influncer`, {
-      params: {
-        Channel_id: channelId,
-      }
+
+    const response = await axios.post(`${server_url}/api/v1/add_yt_influncer`, {
+      Channel_id: channelId
     });
 
     return {

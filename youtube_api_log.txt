@@ -1,0 +1,1835 @@
+Success for channel UCtJ7izhohOhJzOVB49UbFHQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 86.66666666666667, 'female': 13.333333333333334}",
+      "audience_topics": "{'Lifestyle': 28.40909090909091, 'Pop music': 4.545454545454546, 'Health': 2.272727272727273, 'Entertainment': 3.4090909090909087, 'Football': 1.1363636363636365, 'Hobby': 1.1363636363636365, 'Action-adventure game': 1.1363636363636365, 'Fashion': 1.1363636363636365, 'Pets': 1.1363636363636365, 'Religion': 1.1363636363636365, 'Society': 1.1363636363636365, 'Music': 19.318181818181817, 'Gaming': 1.1363636363636365, 'Music of Asia': 20.454545454545457, 'Humor': 1.1363636363636365, 'Action game': 1.1363636363636365, 'Movies': 1.1363636363636365, 'Sports': 1.1363636363636365, 'Food': 7.954545454545454}",
+      "banner_link": "",
+      "channel_id": "UCtJ7izhohOhJzOVB49UbFHQ",
+      "city": "['Hi Friends', 'Indian', 'DIY', 'SUBSCRIBE', 'Business', '__________________________', 'Social Networking']",
+      "country": "India",
+      "description": "Hi Friends!This is puja, a youtuber from bengal who loves to share her life and skills in this platform. I am an Indian classical dancer and love to sing as well. Through this medium I would also showcase my acumen in beauty, makeup and DIY along with my lifestyle routine. I hope to receive your love and support in this journey. If you loved my content, do consider giving the video a LIKE👍& SHARE it with your friends & family if you found it interesting and don't forget to SUBSCRIBE to my channel, Looking forward to interacting with my lovely subscribers. Thank you for taking time to visit my channel. For Business inquiry and Promotion you can reach us at:👇medha.su95@gmail.com__________________________My other Social Networking Channels:INSTAGRAM-https: //www.instagram.com/desi_bong_beauty/Facebook- https: //www.facebook.com/PujaSarkaD/Twitter-DESI BONG BEAUTY (@DESIBONGBEAUTY1): https://twitter.com/DESIBONGBEAUTY1?s=08",
+      "email": "['medha.su95@gmail.com']",
+      "gender": "Female",
+      "handle": "@DESIBONGBEAUTY",
+      "id": 56,
+      "joined_data": "Joined Oct 30, 2016",
+      "keywords": "['friends', 'share', 'love', 'beauty', 'channel', 'https', 'hi', 'puja', 'youtuber', 'bengal', 'loves', 'life', 'skills', 'platform', 'indian', 'classical', 'dancer', 'sing', 'well', 'medium']",
+      "location": "India",
+      "name": "DESI BONG BEAUTY",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/4vX9Q_vRP-KZAvTTy7em_5VuiezHK0R6UcKB0ED4ieAzxJ1Re4g2dj4tphwW1HJiofwTtQhO3Pg=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/DESI_BONG_BEAUTY/']})",
+      "subscriber": "248K ",
+      "topics": "['Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUtJ7izhohOhJzOVB49UbFHQ",
+      "verified": "False",
+      "video_count": "215 ",
+      "views": "27,368,051 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 809}, {\"id\": 810}, {\"id\": 811}, {\"id\": 812}, {\"id\": 813}, {\"id\": 814}, {\"id\": 815}, {\"id\": 816}, {\"id\": 817}, {\"id\": 818}, {\"id\": 819}, {\"id\": 820}, {\"id\": 821}, {\"id\": 822}, {\"id\": 823}, {\"id\": 824}, {\"id\": 825}, {\"id\": 826}, {\"id\": 827}, {\"id\": 828}, {\"id\": 829}, {\"id\": 830}, {\"id\": 831}, {\"id\": 832}, {\"id\": 833}]"
+}
+
+Success for channel UCQu1-14oFwXfW69HPo_t7sw:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 89.33333333333333, 'female': 10.666666666666668}",
+      "audience_topics": "{'Movies': 2.1052631578947367, 'Lifestyle': 31.57894736842105, 'Performing arts': 1.0526315789473684, 'Knowledge': 1.0526315789473684, 'Music of Asia': 24.210526315789473, 'Food': 8.421052631578947, 'Entertainment': 3.1578947368421053, 'Music': 22.105263157894736, 'Hobby': 6.315789473684211}",
+      "banner_link": "",
+      "channel_id": "UCQu1-14oFwXfW69HPo_t7sw",
+      "city": "['Email', 'Pompy', 'Instagram', 'Arindam', 'Niketani Boutique FB Page']",
+      "country": "India",
+      "description": "\"সেন সেশন\" আপনাদের সামনে তুলে ধরতে চায় আমাদের দৈনন্দিন জীবনের নানারকম অধ্যায়। কোনো অলঙ্করণ ছাড়া একটা সহজ সরল জীবনযাপনের রোজনামচা। সুদূর বেঙ্গালুরুর বাসিন্দা হয়েও আমরা যেভাবে বাংলার সংস্কৃতি ও কৃষ্টি কে আমাদের নিত্যদিনের সঙ্গী করে নিজেদের জীবনযাত্রার প্রতিটা আনন্দঘন মুহূর্তকে উপভোগ করি, সেই অনুভূতি গুলো আপনাদের সাথে ভাগ করার উদ্দেশ্যেই আমাদের এই উদ্যোগ।Channel's Official Email ID-    aphroditesen2510@gmail.comPompy's Instagram ID -     https://www.instagram.com/sudipta_sensession?igsh=ejBxcGYxanljc2R6&utm_source=qrArindam's Instagram ID -        https://www.instagram.com/arindamsenaxa/Niketani Boutique FB Page -  https://www.facebook.com/NiketaniBoutique/",
+      "email": "['aphroditesen2510@gmail.com']",
+      "gender": "",
+      "handle": "@sensession5689",
+      "id": 57,
+      "joined_data": "Joined Jun 8, 2020",
+      "keywords": "['https', 'instagram', 'id', 'সহজ', 'সরল', 'এই', 'official', 'email', 'aphroditesen2510', 'boutique', 'fb', 'page']",
+      "location": "India",
+      "name": "Sen Session",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/SCR1ofNaSgQjOrLHbAl9mMMkUQ9frxSofW5qYd3VWaCdwD5im26Y50CfrB0O5OO6tSe0miyNBSk=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {\"Aphrodite's Facebook\": ['https://www.facebook.com/aphroditesen'], \"Aphrodite's Instagram\": ['https://www.instagram.com/aphroditesen/'], \"Arindam'Instagram\": ['https://www.instagram.com/arindamsenaxa/'], 'Niketani Boutique Facebook': ['https://www.facebook.com/NiketaniBoutique/']})",
+      "subscriber": "177K ",
+      "topics": "['Food', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUQu1-14oFwXfW69HPo_t7sw",
+      "verified": "False",
+      "video_count": "1,725 ",
+      "views": "130,917,138 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 834}, {\"id\": 835}, {\"id\": 836}, {\"id\": 837}, {\"id\": 838}, {\"id\": 839}, {\"id\": 840}, {\"id\": 841}, {\"id\": 842}, {\"id\": 843}, {\"id\": 844}, {\"id\": 845}, {\"id\": 846}, {\"id\": 847}, {\"id\": 848}, {\"id\": 849}, {\"id\": 850}, {\"id\": 851}, {\"id\": 852}, {\"id\": 853}, {\"id\": 854}, {\"id\": 855}, {\"id\": 856}, {\"id\": 857}, {\"id\": 858}]"
+}
+
+Success for channel UCy55ba__XkvFiAW9B78jxsw:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 90.0, 'female': 10.0}",
+      "audience_topics": "{'Movies': 1.6304347826086956, 'Lifestyle': 16.847826086956523, 'Performing arts': 2.717391304347826, 'Pop music': 1.0869565217391304, 'Gaming': 0.5434782608695652, 'Music of Asia': 32.608695652173914, 'Vehicles': 0.5434782608695652, 'Humor': 1.6304347826086956, 'Entertainment': 8.695652173913043, 'Music': 32.608695652173914, 'Hobby': 1.0869565217391304}",
+      "banner_link": "",
+      "channel_id": "UCy55ba__XkvFiAW9B78jxsw",
+      "city": "['Shubham Jaker Official', 'HRP Digital', 'WATCH', 'COMEDY', 'VIDEO', 'MOST', 'LOT', 'SHUBHAM']",
+      "country": "India",
+      "description": "Welcome To Shubham Jaker Official YouTube Channel ..Managed By :- HRP DigitalWATCH NEW DANCE AND COMEDY'S VIDEO EVERY WEEKAND MOST AMEZING VIDEOSSO STAY TUNED AND SUBSCRIBE !! LOT MORE STUFF COOMING SOON......FOLLOW ME INSTAGRAM : SHUBHAM JAKER😘😘😘♥️♥️THANKS FOR LOVE YOUR SUPPORT ❤️♥️😘♥️🙏🙏🙏🙏",
+      "email": "[]",
+      "gender": "Male",
+      "handle": "@ShubhamJaker1",
+      "id": 58,
+      "joined_data": "Joined Dec 2, 2017",
+      "keywords": "['shubham', 'welcome', 'jaker', 'official', 'youtube', 'channel', 'managed', 'hrp', 'digitalwatch', 'new', 'dance', 'comedy', 'video', 'every', 'weekand', 'amezing', 'videosso', 'stay', 'tuned', 'subscribe']",
+      "location": "India",
+      "name": "Shubham Jaker",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_nsx-Tn4iYnpWgWlVb9A9hbEBgznGII_N0-aoh5mWtCXg=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "821K ",
+      "topics": "['Lifestyle', 'Music of Asia', 'Music']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Music']",
+      "uploads": "UUy55ba__XkvFiAW9B78jxsw",
+      "verified": "True",
+      "video_count": "83 ",
+      "views": "177,964,856 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 859}, {\"id\": 860}, {\"id\": 861}, {\"id\": 862}, {\"id\": 863}, {\"id\": 864}, {\"id\": 865}, {\"id\": 866}, {\"id\": 867}, {\"id\": 868}, {\"id\": 869}, {\"id\": 870}, {\"id\": 871}, {\"id\": 872}, {\"id\": 873}, {\"id\": 874}, {\"id\": 875}, {\"id\": 876}, {\"id\": 877}, {\"id\": 878}, {\"id\": 879}, {\"id\": 880}, {\"id\": 881}, {\"id\": 882}, {\"id\": 883}]"
+}
+
+Success for channel UCQGKOqD_yMLIOluZauHUBjQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 85.0, 'female': 15.0}",
+      "audience_topics": "{'Lifestyle': 20.833333333333336, 'Pop music': 1.0416666666666665, 'Electronic music': 1.0416666666666665, 'Entertainment': 6.25, 'Hobby': 6.25, 'Action-adventure game': 4.166666666666666, 'Technology': 1.0416666666666665, 'Puzzle video game': 1.0416666666666665, 'Role-playing video game': 3.125, 'Fashion': 3.125, 'Music': 14.583333333333334, 'Religion': 2.083333333333333, 'Racing video game': 1.0416666666666665, 'Society': 1.0416666666666665, 'Gaming': 5.208333333333334, 'Music of Asia': 15.625, 'Humor': 1.0416666666666665, 'Action game': 5.208333333333334, 'Movies': 3.125, 'Knowledge': 1.0416666666666665, 'Vehicles': 2.083333333333333}",
+      "banner_link": "",
+      "channel_id": "UCQGKOqD_yMLIOluZauHUBjQ",
+      "city": "['Devendra Sinh Jadeja Contact']",
+      "country": "Country not found for the given shortcode.",
+      "description": "Any enquiry for Contact by Devendra Sinh JadejaContact infoEmail : devendrasinhjadejavavdi@gmail.com Instagram : devendrasinh_vavdihttps://instagram.com/devendrasinh_vavdi?utm_medium=copy_link",
+      "email": "['devendrasinhjadejavavdi@gmail.com']",
+      "gender": "",
+      "handle": "@devendrasinhjadejavavdi6244",
+      "id": 59,
+      "joined_data": "Joined Feb 4, 2021",
+      "keywords": "['enquiry', 'contact', 'devendra', 'sinh', 'jadejacontact', 'infoemail', 'devendrasinhjadejavavdi', 'instagram']",
+      "location": "",
+      "name": "Devendrasinh jadeja Vavdi",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_kEjCcN8UfDB2Jlyh2GP2SHb0fKh05uR9_1_eCfdTnVMg=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "82K ",
+      "topics": "['Knowledge', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Knowledge', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUQGKOqD_yMLIOluZauHUBjQ",
+      "verified": "False",
+      "video_count": "37 ",
+      "views": "3,633,540 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 884}, {\"id\": 885}, {\"id\": 886}, {\"id\": 887}, {\"id\": 888}, {\"id\": 889}, {\"id\": 890}, {\"id\": 891}, {\"id\": 892}, {\"id\": 893}, {\"id\": 894}, {\"id\": 895}, {\"id\": 896}, {\"id\": 897}, {\"id\": 898}, {\"id\": 899}, {\"id\": 900}, {\"id\": 901}, {\"id\": 902}, {\"id\": 903}, {\"id\": 904}, {\"id\": 905}, {\"id\": 906}, {\"id\": 907}, {\"id\": 908}]"
+}
+
+Success for channel UCK7iCgfQQsBnwuD6w4doHAw:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 82.66666666666667, 'female': 17.333333333333336}",
+      "audience_topics": "{'Lifestyle': 13.432835820895523, 'Performing arts': 0.9950248756218906, 'Pop music': 2.9850746268656714, 'Electronic music': 0.4975124378109453, 'Entertainment': 7.960199004975125, 'Hobby': 0.9950248756218906, 'Action-adventure game': 5.472636815920398, 'Technology': 0.4975124378109453, 'Role-playing video game': 2.4875621890547266, 'Religion': 0.4975124378109453, 'Society': 0.9950248756218906, 'Music': 19.900497512437813, 'Gaming': 6.965174129353234, 'Music of Asia': 18.90547263681592, 'Hip hop music': 0.4975124378109453, 'Humor': 1.4925373134328357, 'Action game': 6.467661691542288, 'Movies': 3.9800995024875623, 'Knowledge': 0.9950248756218906, 'Sports': 0.9950248756218906, 'Vehicles': 1.4925373134328357, 'Food': 0.4975124378109453, 'Cricket': 0.9950248756218906}",
+      "banner_link": "",
+      "channel_id": "UCK7iCgfQQsBnwuD6w4doHAw",
+      "city": "['Shu Keh Bhaibandh', 'Laughter', 'God', 'Serve Happiness', 'Gujarati Content', 'Toh AmdavadiMan Channel Ne', 'Email', 'Amdavadiman', 'Deep Purohit']",
+      "country": "India",
+      "description": "Shu Keh Bhaibandh , Laughter is God’s hand on the shoulder of a troubled world.We Amdavadis Are Here To Serve Happiness With Our Urban-Desi Gujarati Content, Toh AmdavadiMan Channel Ne SUBSCRIBE Karo Ane Moj Karo.For business inquiries:-Email:- Amdavadiman@gmail.comContact:- Mr. Deep Purohit - 8733802828",
+      "email": "['Amdavadiman@gmail.com']",
+      "gender": "",
+      "handle": "@AmdavadiMangujarat",
+      "id": 60,
+      "joined_data": "Joined Jul 24, 2016",
+      "keywords": "['amdavadiman', 'shu', 'keh', 'bhaibandh', 'laughter', 'god', 'hand', 'shoulder', 'troubled', 'amdavadis', 'serve', 'happiness', 'gujarati', 'content', 'toh', 'channel', 'ne', 'subscribe', 'karo', 'ane']",
+      "location": "India",
+      "name": "Amdavadi Man",
+      "phone": "['8733802828']",
+      "photo_link": "https://yt3.googleusercontent.com/lvBDlebqAzGd7OSSpU0mzn1Ni9ENaPVtow8umXVgbM1spoq8QuRyom8CcnYVy1zEY652M1grYQ=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'INSTAGRAM': ['https://www.instagram.com/amdavadiman'], 'FACEBOOK': ['https://www.facebook.com/amdavadiman'], 'TWITTER': ['https://twitter.com/swagger_baba']})",
+      "subscriber": "1.26000, 000 ",
+      "topics": "['Movies', 'Humor', 'Entertainment']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Humour', 'https://en.wikipedia.org/wiki/Entertainment']",
+      "uploads": "UUK7iCgfQQsBnwuD6w4doHAw",
+      "verified": "True",
+      "video_count": "262 ",
+      "views": "220,523,112 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 909}, {\"id\": 910}, {\"id\": 911}, {\"id\": 912}, {\"id\": 913}, {\"id\": 914}, {\"id\": 915}, {\"id\": 916}, {\"id\": 917}, {\"id\": 918}, {\"id\": 919}, {\"id\": 920}, {\"id\": 921}, {\"id\": 922}, {\"id\": 923}, {\"id\": 924}, {\"id\": 925}, {\"id\": 926}, {\"id\": 927}, {\"id\": 928}, {\"id\": 929}, {\"id\": 930}, {\"id\": 931}, {\"id\": 932}, {\"id\": 933}]"
+}
+
+Success for channel UClxpF-YK6nA-tp4dy2s1cKg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 77.0, 'female': 23.0}",
+      "audience_topics": "{'Movies': 6.25, 'Religion': 0.78125, 'Lifestyle': 16.40625, 'Performing arts': 0.78125, 'Society': 1.5625, 'Knowledge': 0.78125, 'Gaming': 0.78125, 'Sports': 0.78125, 'Music of Asia': 23.4375, 'Vehicles': 0.78125, 'Cricket': 0.78125, 'Humor': 5.46875, 'Entertainment': 17.1875, 'Music': 24.21875}",
+      "banner_link": "",
+      "channel_id": "UClxpF-YK6nA-tp4dy2s1cKg",
+      "city": "['Mind Freshner']",
+      "country": "Country not found for the given shortcode.",
+      "description": "Mind Freshner 🔥",
+      "email": "[]",
+      "gender": "",
+      "handle": "@radiant_nikki",
+      "id": 61,
+      "joined_data": "Joined May 17, 2013",
+      "keywords": "['mind', 'freshner']",
+      "location": "",
+      "name": "Radiant Nikki",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_mLioOKb8-dSpd69DsyP5QkbFdunRTnNoZh9CuksjQ4AWRc=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "3.96K ",
+      "topics": "['Humor', 'Entertainment', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Humour', 'https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUlxpF-YK6nA-tp4dy2s1cKg",
+      "verified": "False",
+      "video_count": "37 ",
+      "views": "890,003 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 934}, {\"id\": 935}, {\"id\": 936}, {\"id\": 937}, {\"id\": 938}, {\"id\": 939}, {\"id\": 940}, {\"id\": 941}, {\"id\": 942}, {\"id\": 943}, {\"id\": 944}, {\"id\": 945}, {\"id\": 946}, {\"id\": 947}, {\"id\": 948}, {\"id\": 949}, {\"id\": 950}, {\"id\": 951}, {\"id\": 952}, {\"id\": 953}, {\"id\": 954}, {\"id\": 955}, {\"id\": 956}, {\"id\": 957}, {\"id\": 958}]"
+}
+
+Success for channel UCpK9BDYFE4dcF_sKInXoxbA:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 81.25, 'female': 18.75}",
+      "audience_topics": "{'Movies': 3.225806451612903, 'Action-adventure game': 6.451612903225806, 'Lifestyle': 16.129032258064516, 'Role-playing video game': 6.451612903225806, 'Performing arts': 3.225806451612903, 'Music': 12.903225806451612, 'Gaming': 6.451612903225806, 'Music of Asia': 9.67741935483871, 'Vehicles': 3.225806451612903, 'Action game': 6.451612903225806, 'Humor': 6.451612903225806, 'Entertainment': 16.129032258064516, 'Religion': 3.225806451612903}",
+      "banner_link": "",
+      "channel_id": "UCpK9BDYFE4dcF_sKInXoxbA",
+      "city": "[]",
+      "country": "India",
+      "description": "Thank you so much guy’s🤗તમારા આટલા સપોર્ટ થી અમે લોકો આ મુકામે પોહોચ્યા છીએ. અમને લોકોને હજુ એટલો વિશ્વાસ છે.  તમે આનાથી પણ વધુ સપોર્ટ કરશો એવી આશા છે. અને હા તમને કેવા વિડીયો (video) & વ્લોગ (vlog)  ગમે છે કોમેંટમા જણાવતા રેજો. મીત્રો, જો તમે અમારી ચેનલમા નવા છો તો રાહ કોની જુઓ છો ફટાફટ અમારી ચેનલ  Viru Korat ને Subscribe કરો. 👍🙏Love you all 🤗Your support my pleasure ☺️Like,share & subscribe 💯",
+      "email": "[]",
+      "gender": "Male",
+      "handle": "@virukorat5783",
+      "id": 62,
+      "joined_data": "Joined Jul 15, 2020",
+      "keywords": "['subscribe', 'thank', 'much', 'guy', 'પણ', 'video', 'vlog', 'viru', 'korat', 'support', 'pleasure', 'share']",
+      "location": "India",
+      "name": "Viru Korat",
+      "phone": "['919510938199']",
+      "photo_link": "https://yt3.googleusercontent.com/4VqZ-4Wn9_-x4zJqGEMkz67nz64lAcTN0gmlV-jdzokO-ry985GsFXQHcwndtpYp8hqclD3j=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Viru Korat': ['https://instagram.com/viru_korat?utm_medium=copy_link'], 'Bhavik Kumbhani': ['https://instagram.com/bhavik._.patel17?utm_medium=copy_link'], 'Sahaj Patel': ['https://instagram.com/sahaj._.patel27?utm_medium=copy_link'], 'Whatsapp Contact': ['Wa.me/+919510938199/']})",
+      "subscriber": "11.1K ",
+      "topics": "['Entertainment', 'Movies', 'Humor', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Humour', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",
+      "uploads": "UUpK9BDYFE4dcF_sKInXoxbA",
+      "verified": "False",
+      "video_count": "108 ",
+      "views": "1,534,794 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 959}, {\"id\": 960}, {\"id\": 961}, {\"id\": 962}, {\"id\": 963}, {\"id\": 964}, {\"id\": 965}, {\"id\": 966}, {\"id\": 967}, {\"id\": 968}, {\"id\": 969}, {\"id\": 970}, {\"id\": 971}, {\"id\": 972}, {\"id\": 973}, {\"id\": 974}, {\"id\": 975}, {\"id\": 976}, {\"id\": 977}, {\"id\": 978}, {\"id\": 979}, {\"id\": 980}, {\"id\": 981}, {\"id\": 982}, {\"id\": 983}]"
+}
+
+Success for channel UCGt6OunIlOyqQLMDAw5rAvQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 68.42105263157895, 'female': 31.57894736842105}",
+      "audience_topics": "{'Movies': 9.090909090909092, 'Religion': 9.090909090909092, 'Lifestyle': 18.181818181818183, 'Knowledge': 9.090909090909092, 'Society': 9.090909090909092, 'Food': 9.090909090909092, 'Humor': 9.090909090909092, 'Entertainment': 9.090909090909092, 'Music': 9.090909090909092, 'Hobby': 9.090909090909092}",
+      "banner_link": "",
+      "channel_id": "UCGt6OunIlOyqQLMDAw5rAvQ",
+      "city": "['જય']",
+      "country": "India",
+      "description": "જય માતાજી મિત્રો ..વિડિઓ સારા લાગે તો શેર કરો કોમન્ટ કરો લાયક કરો અને હા Subscribe કરવા નું ભૂલતા નય હો વાલા .જય માતાજી મિત્રો ",
+      "email": "[]",
+      "gender": "Male",
+      "handle": "@mr.bimalparmar2723",
+      "id": 63,
+      "joined_data": "Joined Dec 16, 2015",
+      "keywords": "['જય', 'subscribe', 'નય']",
+      "location": "India",
+      "name": "Mr.Bimal Parmar",
+      "phone": "['11044275']",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_mHVqs6f7aM6dDvZTI3q0D0V3w0091lvyLz1JhbSeXKHSY=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "7.73K ",
+      "topics": "['Entertainment', 'Lifestyle', 'Movies']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Film']",
+      "uploads": "UUGt6OunIlOyqQLMDAw5rAvQ",
+      "verified": "False",
+      "video_count": "425 ",
+      "views": "964,062 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 984}, {\"id\": 985}, {\"id\": 986}, {\"id\": 987}, {\"id\": 988}, {\"id\": 989}, {\"id\": 990}, {\"id\": 991}, {\"id\": 992}, {\"id\": 993}, {\"id\": 994}, {\"id\": 995}, {\"id\": 996}, {\"id\": 997}, {\"id\": 998}, {\"id\": 999}, {\"id\": 1000}, {\"id\": 1001}, {\"id\": 1002}, {\"id\": 1003}, {\"id\": 1004}, {\"id\": 1005}, {\"id\": 1006}, {\"id\": 1007}, {\"id\": 1008}]"
+}
+
+Success for channel UCuK_w0o4ync87plEZWYrUSg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 81.33333333333333, 'female': 18.666666666666668}",
+      "audience_topics": "{'Religion': 2.941176470588235, 'Movies': 3.9215686274509802, 'Action-adventure game': 0.9803921568627451, 'Lifestyle': 18.627450980392158, 'Role-playing video game': 0.9803921568627451, 'Performing arts': 0.9803921568627451, 'Knowledge': 3.9215686274509802, 'Pop music': 1.9607843137254901, 'Gaming': 0.9803921568627451, 'Sports': 2.941176470588235, 'Music of Asia': 21.568627450980394, 'Food': 0.9803921568627451, 'Hip hop music': 0.9803921568627451, 'Cricket': 2.941176470588235, 'Entertainment': 9.803921568627452, 'Music': 23.52941176470588, 'Hobby': 1.9607843137254901}",
+      "banner_link": "",
+      "channel_id": "UCuK_w0o4ync87plEZWYrUSg",
+      "city": "['Gujarati Rapper', 'Artist']",
+      "country": "India",
+      "description": "Gujarati Rapper | Entertainer | Artist | Actor | Poet | Radio Jocky",
+      "email": "[]",
+      "gender": "",
+      "handle": "@rjakashh",
+      "id": 64,
+      "joined_data": "Joined Jun 20, 2012",
+      "keywords": "['gujarati', 'rapper', 'entertainer', 'artist', 'actor', 'poet', 'radio', 'jocky']",
+      "location": "India",
+      "name": "RJ Akash",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/VsfZaqNX6Bgg_ycIeaQ35RoT78610EG_5DaO-n01VILnHf6TSf6RDRMAh2q4agbQe1UiaNYeHA=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "283K ",
+      "topics": "['Music', 'Entertainment']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Entertainment']",
+      "uploads": "UUuK_w0o4ync87plEZWYrUSg",
+      "verified": "True",
+      "video_count": "218 ",
+      "views": "71,157,403 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1009}, {\"id\": 1010}, {\"id\": 1011}, {\"id\": 1012}, {\"id\": 1013}, {\"id\": 1014}, {\"id\": 1015}, {\"id\": 1016}, {\"id\": 1017}, {\"id\": 1018}, {\"id\": 1019}, {\"id\": 1020}, {\"id\": 1021}, {\"id\": 1022}, {\"id\": 1023}, {\"id\": 1024}, {\"id\": 1025}, {\"id\": 1026}, {\"id\": 1027}, {\"id\": 1028}, {\"id\": 1029}, {\"id\": 1030}, {\"id\": 1031}, {\"id\": 1032}, {\"id\": 1033}]"
+}
+
+Success for channel UCNDvVy2TKCuJTUnAetKkIAg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 100.0, 'female': 0.0}",
+      "audience_topics": "{'Lifestyle': 14.285714285714285, 'Music of Asia': 28.57142857142857, 'Humor': 14.285714285714285, 'Entertainment': 14.285714285714285, 'Music': 28.57142857142857}",
+      "banner_link": "",
+      "channel_id": "UCNDvVy2TKCuJTUnAetKkIAg",
+      "city": "['Baroda Boys']",
+      "country": "India",
+      "description": "ઉઠો જગો અને હસ્તા રહો 😂😂. આજે મજાક છું કાલે મિસાલ બનીસ.\"આજ કાલ બાળકો નથી રમતા toysકેમ કે YouTube માં ધૂમ મચાવે Baroda Boys\"",
+      "email": "[]",
+      "gender": "Female",
+      "handle": "@barodaboys1443",
+      "id": 65,
+      "joined_data": "Joined Oct 10, 2018",
+      "keywords": "['આજ', 'youtube', 'baroda', 'boys']",
+      "location": "India",
+      "name": "Baroda Boys",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/qktvV_CyeahXVeeYBrzHXaBNVkYnEodPgTvdyRJG_3JJ8Ch2EYZs1RhnzsVum1bq3OCdWoL1Bg=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Subscribe': ['https://www.youtube.com/channel/UCNDvVy2TKCuJTUnAetKkIAg?disable_polymer=true?sub_confirmation=1']})",
+      "subscriber": "4.66K ",
+      "topics": "['Movies', 'Entertainment']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Entertainment']",
+      "uploads": "UUNDvVy2TKCuJTUnAetKkIAg",
+      "verified": "False",
+      "video_count": "174 ",
+      "views": "292,412 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1034}, {\"id\": 1035}, {\"id\": 1036}, {\"id\": 1037}, {\"id\": 1038}, {\"id\": 1039}, {\"id\": 1040}, {\"id\": 1041}, {\"id\": 1042}, {\"id\": 1043}, {\"id\": 1044}, {\"id\": 1045}, {\"id\": 1046}, {\"id\": 1047}, {\"id\": 1048}, {\"id\": 1049}, {\"id\": 1050}, {\"id\": 1051}, {\"id\": 1052}, {\"id\": 1053}, {\"id\": 1054}, {\"id\": 1055}, {\"id\": 1056}, {\"id\": 1057}, {\"id\": 1058}]"
+}
+
+Success for channel UCA1JUCJKmGjih2sM5n1duJg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 86.95652173913044, 'female': 13.043478260869565}",
+      "audience_topics": "{'Movies': 3.0303030303030303, 'Action-adventure game': 6.0606060606060606, 'Lifestyle': 21.21212121212121, 'Role-playing video game': 6.0606060606060606, 'Gaming': 9.090909090909092, 'Simulation video game': 3.0303030303030303, 'Sports': 3.0303030303030303, 'Music of Asia': 12.121212121212121, 'Vehicles': 3.0303030303030303, 'Action game': 9.090909090909092, 'Cricket': 3.0303030303030303, 'Entertainment': 3.0303030303030303, 'Music': 15.151515151515152, 'Hobby': 3.0303030303030303}",
+      "banner_link": "",
+      "channel_id": "UCA1JUCJKmGjih2sM5n1duJg",
+      "city": "['Instagram', 'Emali', 'Mangeshprajapati131', 'Business']",
+      "country": "Country not found for the given shortcode.",
+      "description": "Instagram - mangesh_0981Emali - Mangeshprajapati131@gmail.comFor Business inquiry mail ",
+      "email": "['Mangeshprajapati131@gmail.com']",
+      "gender": "Male",
+      "handle": "@Mangesh0981",
+      "id": 66,
+      "joined_data": "Joined Apr 14, 2022",
+      "keywords": "['instagram', 'mangeshprajapati131', 'business', 'inquiry', 'mail']",
+      "location": "",
+      "name": "Mangesh Prajapati",
+      "phone": "['11044275']",
+      "photo_link": "https://yt3.googleusercontent.com/2c2byVvVUVnBbdjBeUyhYfyt2mNqEcM02Aa_kTas6OzZvx7tE8PH4uN--OS2WoaApISzD7g6kY4=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "442K ",
+      "topics": "['Movies', 'Entertainment']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Entertainment']",
+      "uploads": "UUA1JUCJKmGjih2sM5n1duJg",
+      "verified": "False",
+      "video_count": "1,551 ",
+      "views": "276,258,655 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1059}, {\"id\": 1060}, {\"id\": 1061}, {\"id\": 1062}, {\"id\": 1063}, {\"id\": 1064}, {\"id\": 1065}, {\"id\": 1066}, {\"id\": 1067}, {\"id\": 1068}, {\"id\": 1069}, {\"id\": 1070}, {\"id\": 1071}, {\"id\": 1072}, {\"id\": 1073}, {\"id\": 1074}, {\"id\": 1075}, {\"id\": 1076}, {\"id\": 1077}, {\"id\": 1078}, {\"id\": 1079}, {\"id\": 1080}, {\"id\": 1081}, {\"id\": 1082}, {\"id\": 1083}]"
+}
+
+Success for channel UC-uNMFfk7lpSIpuC_EBBwjA:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 75.0, 'female': 25.0}",
+      "audience_topics": "{'Vehicles': 50.0, 'Lifestyle': 50.0}",
+      "banner_link": "",
+      "channel_id": "UC-uNMFfk7lpSIpuC_EBBwjA",
+      "city": "['Dream', 'Conquer', 'Pooja Dalal Dholakia', 'RJ Pooja', 'Pooja']",
+      "country": "India",
+      "description": "'Live, Dream - Conquer'Pooja Dalal Dholakia popularly known among her fans as RJ Pooja is a name synonymous with literature, art and culture. Her career spans of more than a decade in the radio industry as a Radio Jockey, and her inimitable flair as a storyteller, writer, blogger, compere, hostess, and an artist.To follow Pooja:Facebook: https://www.facebook.com/rjPooja.OfficialInstagram: https://www.instagram.com/rjpooja.official/Twitter: https://twitter.com/RJPoojaOfficial",
+      "email": "[]",
+      "gender": "",
+      "handle": "@PoojaDalalDholakia",
+      "id": 67,
+      "joined_data": "Joined Nov 29, 2013",
+      "keywords": "['https', 'pooja', 'radio', 'dream', 'dalal', 'dholakia', 'popularly', 'known', 'among', 'fans', 'rj', 'name', 'synonymous', 'literature', 'art', 'culture', 'career', 'spans', 'decade', 'industry']",
+      "location": "India",
+      "name": "Pooja Dalal Dholakia",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/_5VHnQdO7zpCP3P6j_eGAYRsHa73BdEq-M7WR5oNbDLSqkujH3bVnPbWorcqM-KBaLxLpFPwAw=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Facebook': ['https://www.facebook.com/rjPooja.Official'], 'Instagram': ['https://www.instagram.com/rjpooja.official/'], 'Twitter': ['https://twitter.com/RJPoojaOfficial'], 'Blogs': ['https://rjpoojaofficial.blog/']})",
+      "subscriber": "1.77K ",
+      "topics": "['Society', 'Knowledge']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Society', 'https://en.wikipedia.org/wiki/Knowledge']",
+      "uploads": "UU-uNMFfk7lpSIpuC_EBBwjA",
+      "verified": "False",
+      "video_count": "448 ",
+      "views": "180,826 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1084}, {\"id\": 1085}, {\"id\": 1086}, {\"id\": 1087}, {\"id\": 1088}, {\"id\": 1089}, {\"id\": 1090}, {\"id\": 1091}, {\"id\": 1092}, {\"id\": 1093}, {\"id\": 1094}, {\"id\": 1095}, {\"id\": 1096}, {\"id\": 1097}, {\"id\": 1098}, {\"id\": 1099}, {\"id\": 1100}, {\"id\": 1101}, {\"id\": 1102}, {\"id\": 1103}, {\"id\": 1104}, {\"id\": 1105}, {\"id\": 1106}, {\"id\": 1107}, {\"id\": 1108}]"
+}
+
+Success for channel UC1lrbncSy1BWnCNMyM2NqqQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 91.33333333333333, 'female': 8.666666666666668}",
+      "audience_topics": "{'Lifestyle': 29.357798165137616, 'Performing arts': 0.9174311926605505, 'Pop music': 1.834862385321101, 'Entertainment': 7.339449541284404, 'Hobby': 3.669724770642202, 'Action-adventure game': 1.834862385321101, 'Role-playing video game': 0.9174311926605505, 'Religion': 0.9174311926605505, 'Music': 14.678899082568808, 'Gaming': 2.7522935779816518, 'Music of Asia': 13.761467889908257, 'Humor': 3.669724770642202, 'Action game': 1.834862385321101, 'Movies': 5.5045871559633035, 'Strategy video game': 0.9174311926605505, 'Knowledge': 0.9174311926605505, 'Sports': 0.9174311926605505, 'Vehicles': 5.5045871559633035, 'Food': 1.834862385321101, 'Cricket': 0.9174311926605505}",
+      "banner_link": "",
+      "channel_id": "UC1lrbncSy1BWnCNMyM2NqqQ",
+      "city": "[]",
+      "country": "Country not found for the given shortcode.",
+      "description": "ಬರ್ರಿ ಅನಾಯಾಸ ಬಂದಿರಿ ಕೂತ ವಿಡಿಯೋ ನೋಡ್ಕೊಂಡು ಹೋಗ್ರಿ",
+      "email": "[]",
+      "gender": "",
+      "handle": "@vadirajbabaladi",
+      "id": 68,
+      "joined_data": "Joined May 17, 2020",
+      "keywords": "[]",
+      "location": "",
+      "name": "Vadiraj",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_mMDEu5in9Les_Lc4nwsmNTLnskruvzo-oLe9_i8FPJ1Q=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://instagram.com/v_a_d_i_r_a_j?utm_medium=copy_link'], 'Facebook': ['https://facebook.com/vadirajz'], 'Twitter': ['https://twitter.com/Vadiraj69571366?s=08']})",
+      "subscriber": "154K ",
+      "topics": "['Humor', 'Lifestyle', 'Movies', 'Entertainment']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Humour', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Entertainment']",
+      "uploads": "UU1lrbncSy1BWnCNMyM2NqqQ",
+      "verified": "True",
+      "video_count": "166 ",
+      "views": "41,909,908 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1109}, {\"id\": 1110}, {\"id\": 1111}, {\"id\": 1112}, {\"id\": 1113}, {\"id\": 1114}, {\"id\": 1115}, {\"id\": 1116}, {\"id\": 1117}, {\"id\": 1118}, {\"id\": 1119}, {\"id\": 1120}, {\"id\": 1121}, {\"id\": 1122}, {\"id\": 1123}, {\"id\": 1124}, {\"id\": 1125}, {\"id\": 1126}, {\"id\": 1127}, {\"id\": 1128}, {\"id\": 1129}, {\"id\": 1130}, {\"id\": 1131}, {\"id\": 1132}, {\"id\": 1133}]"
+}
+
+Success for channel UCHSvhtNPp77Dwysh9jSN-bA:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 100.0, 'female': 0.0}",
+      "audience_topics": "{}",
+      "banner_link": "",
+      "channel_id": "UCHSvhtNPp77Dwysh9jSN-bA",
+      "city": "[]",
+      "country": "Country not found for the given shortcode.",
+      "description": "ನೋಡಕ್ಕೆ ಚಿಕ್ಕವಳು ಆದರೂ ವಯಸ್ಸಲ್ಲಿ ದೊಡ್ಡವಳು                Choreographer and actor",
+      "email": "[]",
+      "gender": "Female",
+      "handle": "@gowthu113",
+      "id": 69,
+      "joined_data": "Joined Aug 20, 2011",
+      "keywords": "['choreographer', 'actor']",
+      "location": "",
+      "name": "gowthamisworld",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/3cQu4BcdfTuNf_C1bUCoLE3jlZCD0sRTVrWDGq6PwamWssM3porSCHRZWAcqKVEyOxI7NdmAJ8w=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "2.83K ",
+      "topics": "['Movies', 'Humor', 'Entertainment', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Humour', 'https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUHSvhtNPp77Dwysh9jSN-bA",
+      "verified": "False",
+      "video_count": "121 ",
+      "views": "1,956,520 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1134}, {\"id\": 1135}, {\"id\": 1136}, {\"id\": 1137}, {\"id\": 1138}, {\"id\": 1139}, {\"id\": 1140}, {\"id\": 1141}, {\"id\": 1142}, {\"id\": 1143}, {\"id\": 1144}, {\"id\": 1145}, {\"id\": 1146}, {\"id\": 1147}, {\"id\": 1148}, {\"id\": 1149}, {\"id\": 1150}, {\"id\": 1151}, {\"id\": 1152}, {\"id\": 1153}, {\"id\": 1154}, {\"id\": 1155}, {\"id\": 1156}, {\"id\": 1157}, {\"id\": 1158}]"
+}
+
+Success for channel UCFxemP-PwSdE-4MIrfN2KHg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 100.0, 'female': 0.0}",
+      "audience_topics": "{'Action-adventure game': 25.0, 'Gaming': 25.0, 'Action game': 25.0, 'Role-playing video game': 25.0}",
+      "banner_link": "",
+      "channel_id": "UCFxemP-PwSdE-4MIrfN2KHg",
+      "city": "['Hello', 'Aami', 'Bengaluru']",
+      "country": "India",
+      "description": "Hello, We are Aami and Prem, from Bengaluru. We are budget travellers who love to explore, taste local cuisines and share our travel stories and adventures with you. Email for collaboration: couplewhowanders@gmail.com ",
+      "email": "['couplewhowanders@gmail.com']",
+      "gender": "",
+      "handle": "@Local_kannadigas",
+      "id": 70,
+      "joined_data": "Joined Aug 27, 2020",
+      "keywords": "['hello', 'aami', 'prem', 'bengaluru', 'budget', 'travellers', 'love', 'explore', 'taste', 'local', 'cuisines', 'share', 'travel', 'stories', 'adventures', 'email', 'collaboration', 'couplewhowanders']",
+      "location": "India",
+      "name": "Local Kannadigas",
+      "phone": "['100063928210003', '11044275']",
+      "photo_link": "https://yt3.googleusercontent.com/sjuHkwGwM3eE_jHB67OPCV0hhyZjIiiRQfZImbnNVus8f34DIaNiPS87yX536nCccKU2WZtiPw=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://instagram.com/couplewhowanders'], 'facebook': ['https://www.facebook.com/profile.php?id=100063928210003&mibextid=ZbWKwL']})",
+      "subscriber": "3.25K ",
+      "topics": "['Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Tourism']",
+      "uploads": "UUFxemP-PwSdE-4MIrfN2KHg",
+      "verified": "False",
+      "video_count": "306 ",
+      "views": "942,948 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1159}, {\"id\": 1160}, {\"id\": 1161}, {\"id\": 1162}, {\"id\": 1163}, {\"id\": 1164}, {\"id\": 1165}, {\"id\": 1166}, {\"id\": 1167}, {\"id\": 1168}, {\"id\": 1169}, {\"id\": 1170}, {\"id\": 1171}, {\"id\": 1172}, {\"id\": 1173}, {\"id\": 1174}, {\"id\": 1175}, {\"id\": 1176}, {\"id\": 1177}, {\"id\": 1178}, {\"id\": 1179}, {\"id\": 1180}, {\"id\": 1181}, {\"id\": 1182}, {\"id\": 1183}]"
+}
+
+Success for channel UCZjeHtw5ZS1d4MaI6WK2MxA:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 97.33333333333334, 'female': 2.666666666666667}",
+      "audience_topics": "{'Lifestyle': 26.400000000000002, 'Entertainment': 5.6000000000000005, 'Football': 0.8, 'Hobby': 2.4, 'Action-adventure game': 4.8, 'Technology': 1.6, 'Role-playing video game': 4.0, 'Motorsport': 1.6, 'Pets': 2.4, 'Society': 3.2, 'Music': 4.0, 'Religion': 1.6, 'Gaming': 6.4, 'Music of Asia': 3.2, 'Action game': 4.8, 'Movies': 3.2, 'Strategy video game': 0.8, 'Knowledge': 1.6, 'Sports': 3.2, 'Vehicles': 16.8, 'Cricket': 1.6}",
+      "banner_link": "",
+      "channel_id": "UCZjeHtw5ZS1d4MaI6WK2MxA",
+      "city": "['R15']",
+      "country": "India",
+      "description": "Hi I 'm simple boy from hassan, I m living in my own world which includes me&motorcycles ....R15 v3 , Rc 390❤️Do watch and support#ಕನ್ನಡಿಗ💫instagram : bornbeast_biker",
+      "email": "[]",
+      "gender": "",
+      "handle": "@BornBeastBiker",
+      "id": 71,
+      "joined_data": "Joined Jun 27, 2021",
+      "keywords": "['hi', 'simple', 'boy', 'hassan', 'living', 'world', 'includes', 'motorcycles', 'r15', 'v3', 'rc', 'watch', 'support']",
+      "location": "India",
+      "name": "Born Beast Biker",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/fZfz_SHVsc31175Bs3Y92gUYx_VA7NGXG265C9J5ydNktr1B85R5KnCprLtoNYhwHMqmuRt1Ww=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://instagram.com/bornbeast_biker?utm_medium=copy_link']})",
+      "subscriber": "49.2K ",
+      "topics": "['Vehicles', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Vehicle', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUZjeHtw5ZS1d4MaI6WK2MxA",
+      "verified": "False",
+      "video_count": "515 ",
+      "views": "9,302,291 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1184}, {\"id\": 1185}, {\"id\": 1186}, {\"id\": 1187}, {\"id\": 1188}, {\"id\": 1189}, {\"id\": 1190}, {\"id\": 1191}, {\"id\": 1192}, {\"id\": 1193}, {\"id\": 1194}, {\"id\": 1195}, {\"id\": 1196}, {\"id\": 1197}, {\"id\": 1198}, {\"id\": 1199}, {\"id\": 1200}, {\"id\": 1201}, {\"id\": 1202}, {\"id\": 1203}, {\"id\": 1204}, {\"id\": 1205}, {\"id\": 1206}, {\"id\": 1207}, {\"id\": 1208}]"
+}
+
+Success for channel UCSsQy5PyHxwt4V7PigQLSOA:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 84.0, 'female': 16.0}",
+      "audience_topics": "{'Action-adventure game': 2.272727272727273, 'Lifestyle': 40.909090909090914, 'Performing arts': 2.272727272727273, 'Gaming': 2.272727272727273, 'Music of Asia': 15.909090909090908, 'Food': 4.545454545454546, 'Vehicles': 2.272727272727273, 'Fashion': 2.272727272727273, 'Action game': 2.272727272727273, 'Music': 18.181818181818183, 'Hobby': 6.8181818181818175}",
+      "banner_link": "",
+      "channel_id": "UCSsQy5PyHxwt4V7PigQLSOA",
+      "city": "['Sushmitha', 'Karnataka', 'Us']",
+      "country": "India",
+      "description": "Sushmitha and I wish to entertain our viewers across Karnataka through this channel, where we share funny videos, the best moments of our lives, travel videos, and many more. We will keep the audience engaged through all the videos and shorts. So, enjoy our videos, and don't forget to like, comment, and share.More of Us:Instagram: https://instagram.com/allu__raghu Facebook:  https://www.facebook.com/AlluRaghu6/a",
+      "email": "[]",
+      "gender": "",
+      "handle": "@alluraghu-sushmitha",
+      "id": 72,
+      "joined_data": "Joined Mar 7, 2016",
+      "keywords": "['videos', 'https', 'sushmitha', 'wish', 'entertain', 'viewers', 'across', 'karnataka', 'channel', 'share', 'funny', 'best', 'moments', 'lives', 'travel', 'many', 'keep', 'audience', 'engaged', 'shorts']",
+      "location": "India",
+      "name": "Allu Raghu - Sushmitha",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/8ixG3x2yVrf9GavrLuYncLkVTYuuxVvYnIeRJgtZOTUQfokYICaMLXS0r7n2ypYL75aWNRmkUHg=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/allu__raghu/', 'https://www.instagram.com/sushmitha_sheshagiri/']})",
+      "subscriber": "207K ",
+      "topics": "['Music of Asia', 'Lifestyle', 'Music']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music']",
+      "uploads": "UUSsQy5PyHxwt4V7PigQLSOA",
+      "verified": "True",
+      "video_count": "1,300 ",
+      "views": "106,392,718 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1209}, {\"id\": 1210}, {\"id\": 1211}, {\"id\": 1212}, {\"id\": 1213}, {\"id\": 1214}, {\"id\": 1215}, {\"id\": 1216}, {\"id\": 1217}, {\"id\": 1218}, {\"id\": 1219}, {\"id\": 1220}, {\"id\": 1221}, {\"id\": 1222}, {\"id\": 1223}, {\"id\": 1224}, {\"id\": 1225}, {\"id\": 1226}, {\"id\": 1227}, {\"id\": 1228}, {\"id\": 1229}, {\"id\": 1230}, {\"id\": 1231}, {\"id\": 1232}, {\"id\": 1233}]"
+}
+
+Success for channel UC3WaOrbWFd4gJqJc4EHaAIw:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 82.66666666666667, 'female': 17.333333333333336}",
+      "audience_topics": "{'Lifestyle': 32.35294117647059, 'Fitness': 0.9803921568627451, 'Performing arts': 1.9607843137254901, 'Pop music': 2.941176470588235, 'Health': 0.9803921568627451, 'Entertainment': 7.8431372549019605, 'Hobby': 5.88235294117647, 'Action-adventure game': 0.9803921568627451, 'Role-playing video game': 0.9803921568627451, 'Fashion': 1.9607843137254901, 'Society': 0.9803921568627451, 'Music': 11.76470588235294, 'Gaming': 1.9607843137254901, 'Music of Asia': 13.725490196078432, 'Humor': 0.9803921568627451, 'Action game': 1.9607843137254901, 'Movies': 0.9803921568627451, 'Knowledge': 0.9803921568627451, 'Sports': 0.9803921568627451, 'Vehicles': 1.9607843137254901, 'Food': 5.88235294117647, 'Cricket': 0.9803921568627451}",
+      "banner_link": "",
+      "channel_id": "UC3WaOrbWFd4gJqJc4EHaAIw",
+      "city": "['Hence', 'Subscribe']",
+      "country": "India",
+      "description": "Welcome to my channel, everyone! Finally, I am here to take you beyond what you already know or have seen on screen!Life comes in shades and stories that pictures cannot contain. Hence, I chose this place to talk about the things I love in detail. This channel has exciting lifestyle videos and travel vlogs sharing my special memories. Get ready to watch many exciting videos that speak about me and the things I love. Subscribe to my channel, and let's together make life exciting! ",
+      "email": "[]",
+      "gender": "Female",
+      "handle": "@dhanushree1771",
+      "id": 73,
+      "joined_data": "Joined Oct 5, 2018",
+      "keywords": "['channel', 'exciting', 'life', 'things', 'love', 'videos', 'welcome', 'everyone', 'finally', 'take', 'beyond', 'already', 'know', 'seen', 'screen', 'comes', 'shades', 'stories', 'pictures', 'contain']",
+      "location": "India",
+      "name": "Dhanushree",
+      "phone": "['118810114482033', '118810114482033', '11044275']",
+      "photo_link": "https://yt3.googleusercontent.com/xW-wSyV5Cbxmyw76q-xl1AlS7WvMg9pV88xbHZXkyedVQNTnjIkuxx_DZGKXtX-9wXWAeEG_9w=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://instagram.com/dhanushree7_?igshid=YmMyMTA2M2Y='], 'Facebook': ['https://www.facebook.com/Dhanushree-118810114482033'], 'Sharechat': ['https://sharechat.com/profile/dhanushree00?referer=tagProfileSearchPage']})",
+      "subscriber": "582K ",
+      "topics": "['Music of Asia', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UU3WaOrbWFd4gJqJc4EHaAIw",
+      "verified": "True",
+      "video_count": "540 ",
+      "views": "243,554,607 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1234}, {\"id\": 1235}, {\"id\": 1236}, {\"id\": 1237}, {\"id\": 1238}, {\"id\": 1239}, {\"id\": 1240}, {\"id\": 1241}, {\"id\": 1242}, {\"id\": 1243}, {\"id\": 1244}, {\"id\": 1245}, {\"id\": 1246}, {\"id\": 1247}, {\"id\": 1248}, {\"id\": 1249}, {\"id\": 1250}, {\"id\": 1251}, {\"id\": 1252}, {\"id\": 1253}, {\"id\": 1254}, {\"id\": 1255}, {\"id\": 1256}, {\"id\": 1257}, {\"id\": 1258}]"
+}
+
+Failed for channel UCPeHtWLKWK7S_PV_DvCXxnA:
+Request failed with status code 500
+
+Failed for channel UCZ2n6UaTdNYLYyIB4ZhNM4Q:
+Request failed with status code 500
+
+Failed for channel UCGdIjfagNUEeK8ZR_K7VWeA:
+Request failed with status code 500
+
+Failed for channel UCHdHf5RbtKxgaAm9aQEKaVA:
+Request failed with status code 500
+
+Failed for channel UCEw_YKybZRqi2RwJzljk-Ew:
+Request failed with status code 500
+
+Failed for channel UCWQ73B8TKnPjRu6oisTY43g:
+Request failed with status code 500
+
+Failed for channel UCoKGzKenFjmH4NLEVd9sX3g:
+Request failed with status code 500
+
+Failed for channel UCTj8B_lzn80AR4h_i8vcy4g:
+Request failed with status code 500
+
+Failed for channel UCodBDtYUuhigSVKksHpYMTw:
+Request failed with status code 500
+
+Failed for channel UCDoA-VDjK2aD7NI8AUCaqvA:
+Request failed with status code 500
+
+Failed for channel UCte7mxjLtGSl0l_UFX_KfyQ:
+Request failed with status code 500
+
+Failed for channel UCG7XV2UBYdZM-c6vdwTEAEw:
+Request failed with status code 500
+
+Failed for channel UCG7XV2UBYdZM-c6vdwTEAEw:
+Request failed with status code 500
+
+Failed for channel UCWGM8313sRCbKrFQRlFk0lQ:
+Request failed with status code 500
+
+Failed for channel UCh8BfDptIoCwCZPr-VQY91Q:
+Request failed with status code 500
+
+Failed for channel UC0HyabXpupX0ImuEy94E0OQ:
+Request failed with status code 500
+
+Failed for channel UCSSU17J3BF6RjuoOzyJBtWw:
+Request failed with status code 500
+
+Failed for channel UCSQi81UB17N5E9dcmWQqOfA:
+Request failed with status code 500
+
+Failed for channel UCqEpLqrNHrQIxmlTml_2ydw:
+Request failed with status code 500
+
+Failed for channel UCdFhgfsU-oh8DEv_DA9QTrQ:
+Request failed with status code 500
+
+Failed for channel UCfbcbEIGrV8jWr4u9ejmKmg:
+Request failed with status code 500
+
+Failed for channel UC0Po6aUH1m6_X-1uizJWNTA:
+Request failed with status code 500
+
+Failed for channel UCqEm-cr0PJ4pFwuWGLKvmew:
+Request failed with status code 500
+
+Failed for channel UC7ZGBanoTIuq1_HMiFJKCIw:
+Request failed with status code 500
+
+Failed for channel UCBtNaFEMqd017VXYhDKQGvA:
+Request failed with status code 500
+
+Success for channel UCm0BloxESCVb4OwFOII16Ww:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 89.33333333333333, 'female': 10.666666666666668}",
+      "audience_topics": "{'Lifestyle': 35.483870967741936, 'Performing arts': 2.1505376344086025, 'Entertainment': 8.60215053763441, 'Football': 1.0752688172043012, 'Hobby': 7.526881720430108, 'Action-adventure game': 1.0752688172043012, 'Role-playing video game': 1.0752688172043012, 'Fashion': 2.1505376344086025, 'Religion': 2.1505376344086025, 'Music': 10.75268817204301, 'Gaming': 3.225806451612903, 'Music of Asia': 11.827956989247312, 'Humor': 2.1505376344086025, 'Action game': 1.0752688172043012, 'Movies': 3.225806451612903, 'Christian music': 1.0752688172043012, 'Knowledge': 1.0752688172043012, 'Sports': 1.0752688172043012, 'Vehicles': 1.0752688172043012, 'Food': 2.1505376344086025}",
+      "banner_link": "",
+      "channel_id": "UCm0BloxESCVb4OwFOII16Ww",
+      "city": "['Meeth', 'Miri', 'KANNUR Thalissery', 'Malayalam']",
+      "country": "India",
+      "description": "24Helo dear this is Meeth and Miri ✨❤️🔥😂🙏🔥basically from KANNUR Thalissery. We are Malayalam video content creator. Instagram https://instagram.com/meeth_miri?igshid=YmMyMTA2M2Y=",
+      "email": "[]",
+      "gender": "",
+      "handle": "@MeethMiri",
+      "id": 75,
+      "joined_data": "Joined Dec 28, 2009",
+      "keywords": "['24helo', 'dear', 'meeth', 'miri', 'kannur', 'thalissery', 'malayalam', 'video', 'content', 'creator', 'instagram', 'https']",
+      "location": "India",
+      "name": "Meeth _Miri",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/Wto4WXL6a41ZogERQmM55E1lAuV2GJENQiRpA5Pb5lf-GHOpxoVLjBr1EfqAAU20k40Mr9qI=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/meeth_miri?igsh=MjBiMzIxZm5oZWpk&utm_source=qr'], 'Facebook': ['https://www.facebook.com/MeethMiri?mibextid=LQQJ4d'], 'Whatsapp': ['https://whatsapp.com/channel/0029Va9krSR3bbV3M0y8D51S']})",
+      "subscriber": "4.86000, 000 ",
+      "topics": "['Entertainment', 'Lifestyle', 'Movies']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Film']",
+      "uploads": "UUm0BloxESCVb4OwFOII16Ww",
+      "verified": "True",
+      "video_count": "1,292 ",
+      "views": "4,183,271,260 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1266}, {\"id\": 1267}, {\"id\": 1268}, {\"id\": 1269}, {\"id\": 1270}, {\"id\": 1271}, {\"id\": 1272}, {\"id\": 1273}, {\"id\": 1274}, {\"id\": 1275}, {\"id\": 1276}, {\"id\": 1277}, {\"id\": 1278}, {\"id\": 1279}, {\"id\": 1280}, {\"id\": 1281}, {\"id\": 1282}, {\"id\": 1283}, {\"id\": 1284}, {\"id\": 1285}, {\"id\": 1286}, {\"id\": 1287}, {\"id\": 1288}, {\"id\": 1289}, {\"id\": 1290}]"
+}
+
+Success for channel UCI7IwAKVPJGIwAf7Q-pfLCg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 95.0, 'female': 5.0}",
+      "audience_topics": "{'Movies': 9.523809523809524, 'Technology': 4.761904761904762, 'Lifestyle': 28.57142857142857, 'Performing arts': 4.761904761904762, 'Knowledge': 4.761904761904762, 'Music of Asia': 14.285714285714285, 'Food': 4.761904761904762, 'Entertainment': 14.285714285714285, 'Music': 9.523809523809524, 'Hobby': 4.761904761904762}",
+      "banner_link": "",
+      "channel_id": "UCI7IwAKVPJGIwAf7Q-pfLCg",
+      "city": "['Success']",
+      "country": "India",
+      "description": "\"Success is not final; failure is not fatal: It is the courage to continue that counts.\"Instagram :- https://instagram.com/snehavijesh_.official Youtube :- https://youtube.com/channel/UCI7IwAKVPJGIwAf7Q-pfLCgFacebook :- https://www.facebook.com/profile.php?id=100011100150005💜 Thank You 💜",
+      "email": "[]",
+      "gender": "Female",
+      "handle": "@snehavijeshvlogs_",
+      "id": 76,
+      "joined_data": "Joined Jan 3, 2016",
+      "keywords": "['https', 'success', 'final', 'failure', 'fatal', 'courage', 'continue', 'counts', 'instagram', 'youtube', 'thank']",
+      "location": "India",
+      "name": "Sneha Vijesh ",
+      "phone": "['100011100150005']",
+      "photo_link": "https://yt3.googleusercontent.com/LHeIKa5txF9uWQFb68Ea-8MINBUiIsB2e0I4sbmc3FtAiGc3eSyBBmyzMkJDzIHEVrsypk9p=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://instagram.com/snehavijesh97'], 'Youtube': ['https://youtube.com/channel/UCI7IwAKVPJGIwAf7Q-pfLCg'], 'Facebook': ['https://www.facebook.com/snehavijeshofficial']})",
+      "subscriber": "54.4K ",
+      "topics": "['Entertainment', 'Music of Asia', 'Lifestyle', 'Music']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music']",
+      "uploads": "UUI7IwAKVPJGIwAf7Q-pfLCg",
+      "verified": "False",
+      "video_count": "250 ",
+      "views": "11,830,910 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1291}, {\"id\": 1292}, {\"id\": 1293}, {\"id\": 1294}, {\"id\": 1295}, {\"id\": 1296}, {\"id\": 1297}, {\"id\": 1298}, {\"id\": 1299}, {\"id\": 1300}, {\"id\": 1301}, {\"id\": 1302}, {\"id\": 1303}, {\"id\": 1304}, {\"id\": 1305}, {\"id\": 1306}, {\"id\": 1307}, {\"id\": 1308}, {\"id\": 1309}, {\"id\": 1310}, {\"id\": 1311}, {\"id\": 1312}, {\"id\": 1313}, {\"id\": 1314}, {\"id\": 1315}]"
+}
+
+Success for channel UCbNMVhn0P-9hC4ag2kcfqlA:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 93.33333333333333, 'female': 6.666666666666667}",
+      "audience_topics": "{'Sports game': 1.4084507042253522, 'Movies': 8.450704225352112, 'Technology': 1.4084507042253522, 'Lifestyle': 28.169014084507044, 'Knowledge': 2.8169014084507045, 'Society': 1.4084507042253522, 'Gaming': 4.225352112676056, 'Music of Asia': 8.450704225352112, 'Vehicles': 4.225352112676056, 'Fashion': 1.4084507042253522, 'Pets': 2.8169014084507045, 'Action game': 1.4084507042253522, 'Food': 2.8169014084507045, 'Humor': 4.225352112676056, 'Entertainment': 15.492957746478872, 'Music': 9.859154929577464, 'Hobby': 1.4084507042253522}",
+      "banner_link": "",
+      "channel_id": "UCbNMVhn0P-9hC4ag2kcfqlA",
+      "city": "['Nasif']",
+      "country": "India",
+      "description": "This is the official page of Nasif VA. I’m an actor and anchor too.You can contact Me on +91 6282259386or Email n12nasi@gmail.com , actornasif@gmail.com",
+      "email": "['n12nasi@gmail.com', 'actornasif@gmail.com']",
+      "gender": "Male",
+      "handle": "@nasifshortstories",
+      "id": 77,
+      "joined_data": "Joined Mar 15, 2022",
+      "keywords": "['official', 'page', 'nasif', 'actor', 'anchor', 'contact', '6282259386or', 'email', 'n12nasi', 'actornasif']",
+      "location": "India",
+      "name": "Nasif Short Stories",
+      "phone": "['11044275', '6282259386']",
+      "photo_link": "https://yt3.googleusercontent.com/WqA-3jTkzgl1L_4CGH2f0Y-R5tsavINDyKbESNi191plVcIoGhFrwNm9PUbN7EgERSByE_Recw=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/naaaaaaasif/'], 'Facebook': ['https://www.facebook.com/Nasifshortstories/'], 'Xylem LDS': ['https://xylem.jotform.com/team/marketing/LDC_ONLINE_BATCH']})",
+      "subscriber": "350K ",
+      "topics": "['Movies', 'Entertainment', 'Humor']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Humour']",
+      "uploads": "UUbNMVhn0P-9hC4ag2kcfqlA",
+      "verified": "True",
+      "video_count": "474 ",
+      "views": "207,323,727 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1316}, {\"id\": 1317}, {\"id\": 1318}, {\"id\": 1319}, {\"id\": 1320}, {\"id\": 1321}, {\"id\": 1322}, {\"id\": 1323}, {\"id\": 1324}, {\"id\": 1325}, {\"id\": 1326}, {\"id\": 1327}, {\"id\": 1328}, {\"id\": 1329}, {\"id\": 1330}, {\"id\": 1331}, {\"id\": 1332}, {\"id\": 1333}, {\"id\": 1334}, {\"id\": 1335}, {\"id\": 1336}, {\"id\": 1337}, {\"id\": 1338}, {\"id\": 1339}, {\"id\": 1340}]"
+}
+
+Success for channel UCYykkRe6qYknnJZs41jLHlA:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 100.0, 'female': 0.0}",
+      "audience_topics": "{'Music of Asia': 50.0, 'Music': 50.0}",
+      "banner_link": "",
+      "channel_id": "UCYykkRe6qYknnJZs41jLHlA",
+      "city": "['जर', 'Business', 'Shivshahi Paithani Factory Outlet Kukkar', 'Yeola', 'Nasik', 'Branch Ram Maruti Rd', 'Naupada', 'Thane', 'Mo', 'Paithani Mumbai Branch Nakshatra Mall', 'Dadar', 'Mumbai', 'Paithani Vashi Branch', 'Vashi', 'Navi Mumbai', 'Paithani Kalyan', 'Ganpati Chowk', 'Agra Rd', 'Kalyan', 'Mob', 'Paithani Aurangabad', 'Kamgar Chowk', 'Cidco', 'Aurangabad Mo']",
+      "country": "India",
+      "description": "Calling Time :- 10am to 6pm साडी चि महाराणी शिवशाही पैठणी ... एकदा आवश्यक खरेदी करा. महाराष्ट्राची शान 🚩महिलांचे लाडके वस्त्रदालन् आमच्या बरोबर तुम्हाला व्यवसाय करू शकता तेहि शून्य गुंतवणुकित् ,जर तुम्हाला व्यवसाय सुरू करायचा असेल तर कमेंट करा.🚩व्हिडिओ मधील साडी ऑर्डर करण्यासाठी साडी चा स्क्रीन शोट खाली दिलेल्या नंबर वर पाठवावा.शिवशाही पैठणी ऑर्डर करायची आहे ? ऑर्डर करण्यासाठी  8097790956 ह्या no वर संपर्क साधावा. Business gmail - shivshahipaithaninetwork@gmail.comआमच्या आउटलेट -Shivshahi Paithani Factory Outlet Kukkar lane, Yeola ( Nasik )Mo- 8446703040Shivshahi Paithani thane Branch Ram Maruti Rd, Naupada, Thane(W) Mo - 9892810765Shivshahi Paithani Mumbai BranchNakshatra Mall, Dadar (W) Mumbai.Mo - 7517581617Shivshahi Paithani Vashi Branch Sector 17, Vashi. (Navi Mumbai) Mo - 9372208517Shivshahi Paithani Kalyan branch.Ganpati Chowk, Agra Rd, Kalyan (W)Mob - 9096642146Shivshahi Paithani Aurangabad branchKamgar Chowk, N 2, Cidco, Aurangabad Mo - 9370897492",
+      "email": "['shivshahipaithaninetwork@gmail.com']",
+      "gender": "",
+      "handle": "@shivshahi_panvel7354",
+      "id": 78,
+      "joined_data": "Joined Nov 24, 2020",
+      "keywords": "['paithani', 'mo', 'वर', 'thane', 'branch', 'rd', 'mumbai', 'vashi', 'kalyan', 'chowk', 'aurangabad', 'calling', 'time', '10am', '6pm', 'जर', 'तर', 'business', 'gmail', 'shivshahipaithaninetwork']",
+      "location": "India",
+      "name": "शिवशाही पैठणी ( Panvel )",
+      "phone": "['100066176822448', '8097790956', '8446703040', '9892810765', '7517581617', '9372208517', '9096642146', '9370897492']",
+      "photo_link": "https://yt3.googleusercontent.com/YqT89d1ipdFbfnz2VG9u9fFgge23TO3Hqy44LB0OrGQxOEtMZCAeX1LhDqoNMmNcms7Hhsoe=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Pinterest': ['https://pin.it/2JHDibE'], 'Instagram': ['https://www.instagram.com/invites/contact/?i=15uktonxyknwk&utm_content=mq4z19q'], 'Facebook': ['https://www.facebook.com/profile.php?id=100066176822448&mibextid=ZbWKwL'], 'Shivshahi Official Website': ['www.shivshahinetwork.com'], 'Threads': ['https://www.threads.net/@shivshahipaithaninetwork'], 'WhatsApp Channel': ['https://whatsapp.com/channel/0029Va9TEgg1SWt6aTF5iX2I'], 'My Store Products': ['https://my-store-e1ae45.creator-spring.com/']})",
+      "subscriber": "296K ",
+      "topics": "['Lifestyle', 'Hobby', 'Music', 'Music of Asia']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Music_of_Asia']",
+      "uploads": "UUYykkRe6qYknnJZs41jLHlA",
+      "verified": "True",
+      "video_count": "3,081 ",
+      "views": "196,238,396 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1341}, {\"id\": 1342}, {\"id\": 1343}, {\"id\": 1344}, {\"id\": 1345}, {\"id\": 1346}, {\"id\": 1347}, {\"id\": 1348}, {\"id\": 1349}, {\"id\": 1350}, {\"id\": 1351}, {\"id\": 1352}, {\"id\": 1353}, {\"id\": 1354}, {\"id\": 1355}, {\"id\": 1356}, {\"id\": 1357}, {\"id\": 1358}, {\"id\": 1359}, {\"id\": 1360}, {\"id\": 1361}, {\"id\": 1362}, {\"id\": 1363}, {\"id\": 1364}, {\"id\": 1365}]"
+}
+
+Failed for channel UCeoSs4j5U_0IG2fXY1Zrb7g:
+Request failed with status code 500
+
+Success for channel UCzmxbCRCv_F8t3OBnSh4kSQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 90.9090909090909, 'female': 9.090909090909092}",
+      "audience_topics": "{'Movies': 3.0303030303030303, 'Action-adventure game': 3.0303030303030303, 'Lifestyle': 21.21212121212121, 'Role-playing video game': 3.0303030303030303, 'Knowledge': 6.0606060606060606, 'Pop music': 3.0303030303030303, 'Gaming': 3.0303030303030303, 'Music of Asia': 18.181818181818183, 'Action game': 3.0303030303030303, 'Humor': 3.0303030303030303, 'Entertainment': 9.090909090909092, 'Music': 21.21212121212121, 'Hobby': 3.0303030303030303}",
+      "banner_link": "",
+      "channel_id": "UCzmxbCRCv_F8t3OBnSh4kSQ",
+      "city": "[]",
+      "country": "India",
+      "description": "हसा😂 आणि हसवत🤣 रहा हेच आपले एकमात्र ध्येय 💖आपली माणस मनाच्या ✨गाभाऱ्यातुन खद खदून हसली पाहिजेत.★®",
+      "email": "[]",
+      "gender": "Female",
+      "handle": "@NIKHILWAGH",
+      "id": 79,
+      "joined_data": "Joined Aug 11, 2013",
+      "keywords": "['खद']",
+      "location": "India",
+      "name": "Navra Bayko",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_n5RdFH4IHIa-j6-v5Sl5_h6ehEOduuSoNM4o-Qq9KCVZqB=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'INSTAGRAM': ['https://instagram.com/nikhiilwagh?utm_medium=copy_link'], 'FACEBOOK': ['https://facebook.com/nikhilwagh786/']})",
+      "subscriber": "297K ",
+      "topics": "['Movies', 'Entertainment', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUzmxbCRCv_F8t3OBnSh4kSQ",
+      "verified": "True",
+      "video_count": "656 ",
+      "views": "193,299,383 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1366}, {\"id\": 1367}, {\"id\": 1368}, {\"id\": 1369}, {\"id\": 1370}, {\"id\": 1371}, {\"id\": 1372}, {\"id\": 1373}, {\"id\": 1374}, {\"id\": 1375}, {\"id\": 1376}, {\"id\": 1377}, {\"id\": 1378}, {\"id\": 1379}, {\"id\": 1380}, {\"id\": 1381}, {\"id\": 1382}, {\"id\": 1383}, {\"id\": 1384}, {\"id\": 1385}, {\"id\": 1386}, {\"id\": 1387}, {\"id\": 1388}, {\"id\": 1389}, {\"id\": 1390}]"
+}
+
+Success for channel UCz2CXVqAmXd60icvdwNsrOQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 90.0, 'female': 10.0}",
+      "audience_topics": "{'Action-adventure game': 4.545454545454546, 'Entertainment': 13.636363636363635, 'Role-playing video game': 4.545454545454546, 'Lifestyle': 18.181818181818183, 'Gaming': 4.545454545454546, 'Music of Asia': 22.727272727272727, 'Humor': 4.545454545454546, 'Action game': 4.545454545454546, 'Music': 22.727272727272727}",
+      "banner_link": "",
+      "channel_id": "UCz2CXVqAmXd60icvdwNsrOQ",
+      "city": "['Stay']",
+      "country": "Country not found for the given shortcode.",
+      "description": "Subscribe our channel ☺️don’t forget to press the bell icon🔕Something new coming soon 🔜 Keep supporting✌️Stay connected♥️",
+      "email": "[]",
+      "gender": "",
+      "handle": "@manu_zunjurke2907",
+      "id": 80,
+      "joined_data": "Joined Feb 12, 2021",
+      "keywords": "['subscribe', 'channel', 'forget', 'press', 'bell', 'new', 'coming', 'soon', 'keep']",
+      "location": "",
+      "name": "Manu_zunjurke",
+      "phone": "['11044275']",
+      "photo_link": "https://yt3.googleusercontent.com/xwvWIS6GeNJSXVIYYDDzG_PzWdwX-pwyIjgQZWJG06Zpm59JDcERcS-1jsbSI7e1jeGWC4NlJA=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "2.13K ",
+      "topics": "['Music', 'Lifestyle', 'Music of Asia']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music_of_Asia']",
+      "uploads": "UUz2CXVqAmXd60icvdwNsrOQ",
+      "verified": "False",
+      "video_count": "11 ",
+      "views": "65,915 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1391}, {\"id\": 1392}, {\"id\": 1393}, {\"id\": 1394}, {\"id\": 1395}, {\"id\": 1396}, {\"id\": 1397}, {\"id\": 1398}, {\"id\": 1399}, {\"id\": 1400}, {\"id\": 1401}]"
+}
+
+Failed for channel UCxUq3mgDJQoQz3mm7eFANUg:
+Request failed with status code 500
+
+Success for channel UCbdzynO0gd2WKAQ_pwAou3w:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 94.66666666666667, 'female': 5.333333333333334}",
+      "audience_topics": "{'Movies': 2.666666666666667, 'Action-adventure game': 1.3333333333333335, 'Lifestyle': 22.666666666666664, 'Role-playing video game': 1.3333333333333335, 'Performing arts': 2.666666666666667, 'Society': 1.3333333333333335, 'Knowledge': 1.3333333333333335, 'Gaming': 1.3333333333333335, 'Music of Asia': 28.000000000000004, 'Action game': 1.3333333333333335, 'Humor': 1.3333333333333335, 'Entertainment': 5.333333333333334, 'Music': 28.000000000000004, 'Hobby': 1.3333333333333335}",
+      "banner_link": "",
+      "channel_id": "UCbdzynO0gd2WKAQ_pwAou3w",
+      "city": "['ACTRESS']",
+      "country": "Country not found for the given shortcode.",
+      "description": "PROFESSIONAL ACTOR SHORT FILMSSONGSGULAWANI GWAD SONG ACTRESSRVS ENTERTAINMENT",
+      "email": "[]",
+      "gender": "",
+      "handle": "@harshada_jadhav_2351",
+      "id": 82,
+      "joined_data": "Joined Sep 24, 2018",
+      "keywords": "['professional', 'actor', 'short', 'filmssongsgulawani', 'gwad', 'song', 'actressrvs', 'entertainment']",
+      "location": "",
+      "name": "HARSHADA_JADHAV_23",
+      "phone": "['11044275']",
+      "photo_link": "https://yt3.googleusercontent.com/-FMEwR_2A_dysaOSNImNkAYPJX-iTBjlCdaEa4tdhPhSGcF1vFm-nH19BaMuAPclm4jd9qsC=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'INSTAGRAM': ['https://instagram.com/harshada_jadhav_23?utm_medium=copy_link']})",
+      "subscriber": "237K ",
+      "topics": "['Lifestyle', 'Entertainment', 'Music of Asia', 'Music']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Music']",
+      "uploads": "UUbdzynO0gd2WKAQ_pwAou3w",
+      "verified": "False",
+      "video_count": "879 ",
+      "views": "100,696,135 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1402}, {\"id\": 1403}, {\"id\": 1404}, {\"id\": 1405}, {\"id\": 1406}, {\"id\": 1407}, {\"id\": 1408}, {\"id\": 1409}, {\"id\": 1410}, {\"id\": 1411}, {\"id\": 1412}, {\"id\": 1413}, {\"id\": 1414}, {\"id\": 1415}, {\"id\": 1416}, {\"id\": 1417}, {\"id\": 1418}, {\"id\": 1419}, {\"id\": 1420}, {\"id\": 1421}, {\"id\": 1422}, {\"id\": 1423}, {\"id\": 1424}, {\"id\": 1425}, {\"id\": 1426}]"
+}
+
+Success for channel UCYwgG0Yn5_UG91Lr6aUJGzw:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 81.81818181818183, 'female': 18.181818181818183}",
+      "audience_topics": "{'Religion': 3.7037037037037033, 'Movies': 3.7037037037037033, 'Lifestyle': 25.925925925925924, 'Society': 3.7037037037037033, 'Music of Asia': 25.925925925925924, 'Entertainment': 7.4074074074074066, 'Music': 22.22222222222222, 'Hobby': 7.4074074074074066}",
+      "banner_link": "",
+      "channel_id": "UCYwgG0Yn5_UG91Lr6aUJGzw",
+      "city": "['Namaskar', 'Welcome', 'Branding', 'Mail']",
+      "country": "Country not found for the given shortcode.",
+      "description": "Namaskar 🙏 Hi, Welcome to our Channel ☺️हासण्यासाठी व आनंदी राहण्यासाठी नक्की subscribe करा. तुमच्या मनोरंजनासाठी सदैव प्रयत्नशील राहू ❤️🙏 For Branding / promotion contact us on Mail id : nirali.pune@gmail.comInstagram id : mr_mrs_lankeshwar_official",
+      "email": "['nirali.pune@gmail.com']",
+      "gender": "",
+      "handle": "@mrmrslankeshwar7241",
+      "id": 83,
+      "joined_data": "Joined Nov 26, 2012",
+      "keywords": "['id', 'namaskar', 'hi', 'welcome', 'channel', 'subscribe', 'branding', 'promotion', 'contact', 'us', 'mail']",
+      "location": "",
+      "name": "Mr & Mrs Lankeshwar",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/P1ZzF18sfQGlS5Bxx5xZOWHabn5rvocOkoUObv1tLHptaDACvgOmZxlgH6VEGPs4vad0bZ5WnQ=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "177K ",
+      "topics": "['Lifestyle', 'Music of Asia', 'Movies', 'Entertainment']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Entertainment']",
+      "uploads": "UUYwgG0Yn5_UG91Lr6aUJGzw",
+      "verified": "True",
+      "video_count": "628 ",
+      "views": "105,616,657 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1427}, {\"id\": 1428}, {\"id\": 1429}, {\"id\": 1430}, {\"id\": 1431}, {\"id\": 1432}, {\"id\": 1433}, {\"id\": 1434}, {\"id\": 1435}, {\"id\": 1436}, {\"id\": 1437}, {\"id\": 1438}, {\"id\": 1439}, {\"id\": 1440}, {\"id\": 1441}, {\"id\": 1442}, {\"id\": 1443}, {\"id\": 1444}, {\"id\": 1445}, {\"id\": 1446}, {\"id\": 1447}, {\"id\": 1448}, {\"id\": 1449}, {\"id\": 1450}, {\"id\": 1451}]"
+}
+
+Failed for channel UCHdB3m19nofHdrhKR94i0uA:
+Request failed with status code 500
+
+Failed for channel UC6dJEm5vT6den-5pOlqVDBw:
+Request failed with status code 500
+
+Failed for channel UC5wi2srAmQc4Yy2vAArscsQ:
+Request failed with status code 500
+
+Success for channel UCHBchadr4LRnDsH_xHulXFA:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "[]",
+      "audience_topics": "[]",
+      "banner_link": "",
+      "channel_id": "UCHBchadr4LRnDsH_xHulXFA",
+      "city": "[]",
+      "country": "Country not found for the given shortcode.",
+      "description": "Follow me on instagram :-  https://instagram.com/mr_sourav012?utm_medium=copy_link",
+      "email": "[]",
+      "gender": "Male",
+      "handle": "@asutoshpanda7652",
+      "id": 87,
+      "joined_data": "Joined Sep 17, 2015",
+      "keywords": "['follow', 'instagram', 'https']",
+      "location": "",
+      "name": "Asutosh panda",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/yN-Y2ftxq564bKdJGpbXy-89XpCNEmxFO2G9HnP_s6rJUzH1HqqjoBPkCxQJaLXB8eSmhds5=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "1.9K ",
+      "topics": "[]",
+      "topics_categories": "[]",
+      "uploads": "UUHBchadr4LRnDsH_xHulXFA",
+      "verified": "False",
+      "video_count": "",
+      "views": ""
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1452}]"
+}
+
+Success for channel UCAmsIlLKOhCYNMKJveuPTPw:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 81.57894736842105, 'female': 18.421052631578945}",
+      "audience_topics": "{'Action-adventure game': 3.0303030303030303, 'Entertainment': 3.0303030303030303, 'Lifestyle': 33.33333333333333, 'Role-playing video game': 3.0303030303030303, 'Pop music': 6.0606060606060606, 'Gaming': 3.0303030303030303, 'Music of Asia': 15.151515151515152, 'Food': 9.090909090909092, 'Vehicles': 3.0303030303030303, 'Humor': 3.0303030303030303, 'Action game': 3.0303030303030303, 'Music': 15.151515151515152}",
+      "banner_link": "",
+      "channel_id": "UCAmsIlLKOhCYNMKJveuPTPw",
+      "city": "[]",
+      "country": "Country not found for the given shortcode.",
+      "description": "",
+      "email": "[]",
+      "gender": "",
+      "handle": "@DVines1",
+      "id": 88,
+      "joined_data": "Joined Nov 11, 2012",
+      "keywords": "None",
+      "location": "",
+      "name": "D-Vines",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_m5u4C9vccdUunmYIYJsA-Yj9TVxMtboaaE1vwdYmCW1x2Z=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "29.6K ",
+      "topics": "['Humor', 'Entertainment', 'Movies']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Humour', 'https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",
+      "uploads": "UUAmsIlLKOhCYNMKJveuPTPw",
+      "verified": "False",
+      "video_count": "218 ",
+      "views": "5,036,527 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1453}, {\"id\": 1454}, {\"id\": 1455}, {\"id\": 1456}, {\"id\": 1457}, {\"id\": 1458}, {\"id\": 1459}, {\"id\": 1460}, {\"id\": 1461}, {\"id\": 1462}, {\"id\": 1463}, {\"id\": 1464}, {\"id\": 1465}, {\"id\": 1466}, {\"id\": 1467}, {\"id\": 1468}, {\"id\": 1469}, {\"id\": 1470}, {\"id\": 1471}, {\"id\": 1472}, {\"id\": 1473}, {\"id\": 1474}, {\"id\": 1475}, {\"id\": 1476}, {\"id\": 1477}]"
+}
+
+Success for channel UCJ7Mh9wWRzCyy5mOJw8NuNg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 82.5503355704698, 'female': 17.449664429530202}",
+      "audience_topics": "{'Movies': 1.680672268907563, 'Lifestyle': 31.932773109243694, 'Performing arts': 1.680672268907563, 'Music': 23.52941176470588, 'Knowledge': 0.8403361344537815, 'Gaming': 0.8403361344537815, 'Pop music': 0.8403361344537815, 'Music of Asia': 25.210084033613445, 'Food': 5.042016806722689, 'Action game': 0.8403361344537815, 'Humor': 0.8403361344537815, 'Entertainment': 2.5210084033613445, 'Religion': 0.8403361344537815, 'Hobby': 3.361344537815126}",
+      "banner_link": "",
+      "channel_id": "UCJ7Mh9wWRzCyy5mOJw8NuNg",
+      "city": "['Daily']",
+      "country": "India",
+      "description": "Channel make our lifestyle comedy  video Daily vloggingMake-up Gossiping",
+      "email": "[]",
+      "gender": "",
+      "handle": "@RadhaSraddhaodiavlogs",
+      "id": 89,
+      "joined_data": "Joined Sep 19, 2018",
+      "keywords": "['channel', 'make', 'lifestyle', 'comedy', 'video', 'daily', 'gossiping']",
+      "location": "India",
+      "name": "Radha&Sraddha Odia Vlogs",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/T9aKhZoqo4HQUeqWOGiZvSJZoMibze2T6A_RgpZGAwpgts42o4HYDCF9KwPaD7AtSyOPMUOG=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'radha&sarddha': ['https://www.youtube.com/']})",
+      "subscriber": "342K ",
+      "topics": "['Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUJ7Mh9wWRzCyy5mOJw8NuNg",
+      "verified": "True",
+      "video_count": "1,561 ",
+      "views": "213,489,549 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1478}, {\"id\": 1479}, {\"id\": 1480}, {\"id\": 1481}, {\"id\": 1482}, {\"id\": 1483}, {\"id\": 1484}, {\"id\": 1485}, {\"id\": 1486}, {\"id\": 1487}, {\"id\": 1488}, {\"id\": 1489}, {\"id\": 1490}, {\"id\": 1491}, {\"id\": 1492}, {\"id\": 1493}, {\"id\": 1494}, {\"id\": 1495}, {\"id\": 1496}, {\"id\": 1497}, {\"id\": 1498}, {\"id\": 1499}, {\"id\": 1500}, {\"id\": 1501}, {\"id\": 1502}]"
+}
+
+Success for channel UCbK9ULNpnPKbUlv3HbnLtcw:
+{
+  "inserted_data": [
+    {
+      "age": null,
+      "audience_gender": "{'male': 86.0, 'female': 14.000000000000002}",
+      "audience_topics": "{'Fashion': 1.3333333333333335, 'Movies': 1.3333333333333335, 'Music': 12.0, 'Knowledge': 1.3333333333333335, 'Hobby': 6.666666666666667, 'Pets': 8.0, 'Sports': 1.3333333333333335, 'Entertainment': 8.0, 'Humor': 1.3333333333333335, 'Food': 8.0, 'Lifestyle': 37.333333333333336, 'Music of Asia': 13.333333333333334}",
+      "banner_link": "",
+      "channel_id": "UCbK9ULNpnPKbUlv3HbnLtcw",
+      "city": "['lifestyle.</span']",
+      "country": "India",
+      "created_at": "2024-08-28 10:59:03",
+      "description": "Sridevi's vlog channel covers a wide range of topics, including movies, TV, entertainment, behind-the-scenes content, photoshoots, product reviews, food reviews, and home and lifestyle.",
+      "email": "[]",
+      "gender": "female",
+      "handle": "@sridevisitara",
+      "id": 32,
+      "joined_data": "Joined Aug 19, 2021",
+      "keywords": "['reviews', 'sridevi', 'vlog', 'channel', 'covers', 'wide', 'range', 'topics', 'including', 'movies', 'tv', 'entertainment', 'scenes', 'content', 'photoshoots', 'product', 'food', 'home', 'lifestyle']",
+      "location": "India",
+      "name": "Sridevi & Sitara",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/THJmRv-9MXs9HWiITI5libsZ1PgmQCzXo7DOiVHF6GXHFRN_c8FQfOmYG5cF0JMxGiWhngT8I7Y=s160-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/srideviashok_official/'], 'Facebook': ['https://www.facebook.com/srideviashok09/']})",
+      "subscriber": "559K ",
+      "topics": "['Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "updated_at": "2024-08-28 10:59:03",
+      "uploads": "UUbK9ULNpnPKbUlv3HbnLtcw",
+      "verified": "True",
+      "video_count": "820 ",
+      "views": "329,210,406 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 126}, {\"id\": 127}, {\"id\": 128}, {\"id\": 129}, {\"id\": 130}, {\"id\": 131}, {\"id\": 132}, {\"id\": 133}, {\"id\": 134}, {\"id\": 135}, {\"id\": 136}, {\"id\": 137}, {\"id\": 138}, {\"id\": 139}, {\"id\": 140}, {\"id\": 141}, {\"id\": 142}, {\"id\": 143}, {\"id\": 144}, {\"id\": 145}, {\"id\": 146}, {\"id\": 147}, {\"id\": 148}, {\"id\": 149}, {\"id\": 150}, {\"id\": 1503}, {\"id\": 1504}, {\"id\": 1505}, {\"id\": 1506}, {\"id\": 1507}, {\"id\": 1508}, {\"id\": 1509}, {\"id\": 1510}, {\"id\": 1511}, {\"id\": 1512}, {\"id\": 1513}, {\"id\": 1514}, {\"id\": 1515}, {\"id\": 1516}, {\"id\": 1517}, {\"id\": 1518}, {\"id\": 1519}, {\"id\": 1520}, {\"id\": 1521}, {\"id\": 1522}, {\"id\": 1523}, {\"id\": 1524}, {\"id\": 1525}, {\"id\": 1526}, {\"id\": 1527}]"
+}
+
+Success for channel UChJRDTWVS8JaDbhsclfTUKg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 92.0, 'female': 8.0}",
+      "audience_topics": "{'Lifestyle': 13.333333333333334, 'Pop music': 2.857142857142857, 'Electronic music': 1.9047619047619049, 'Entertainment': 12.380952380952381, 'Hobby': 2.857142857142857, 'Action-adventure game': 4.761904761904762, 'Technology': 1.9047619047619049, 'Role-playing video game': 6.666666666666667, 'Religion': 0.9523809523809524, 'Society': 0.9523809523809524, 'Music': 9.523809523809524, 'Gaming': 10.476190476190476, 'Music of Asia': 7.6190476190476195, 'Humor': 2.857142857142857, 'Action game': 7.6190476190476195, 'Movies': 9.523809523809524, 'Knowledge': 0.9523809523809524, 'Sports': 0.9523809523809524, 'Vehicles': 0.9523809523809524, 'Cricket': 0.9523809523809524}",
+      "banner_link": "",
+      "channel_id": "UChJRDTWVS8JaDbhsclfTUKg",
+      "city": "['Mabu Crush', 'Share', 'Subscribe', 'Tap', 'Branding', 'Digital']",
+      "country": "Country not found for the given shortcode.",
+      "description": "Hi Everyone ❤️ This is your favorite Mabu Crush here!This channel is all about fun entertainment. keep supporting our channel.Like, Share, Subscribe and Tap on the bell icon for notifications. For Promotions, Branding, Digital Marketing Email: mabu46sherif@gmail.com ",
+      "email": "['mabu46sherif@gmail.com']",
+      "gender": "Male",
+      "handle": "@mabucrush_",
+      "id": 90,
+      "joined_data": "Joined Sep 16, 2012",
+      "keywords": "['hi', 'everyone', 'favorite', 'mabu', 'crush', 'channel', 'fun', 'entertainment', 'keep', 'supporting', 'share', 'subscribe', 'tap', 'bell', 'icon', 'notifications', 'promotions', 'branding', 'digital', 'marketing']",
+      "location": "",
+      "name": "Mabu Crush",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/4HOFsvAkefAjDAyk2cMoO-m0diiezUkPivv6KlyNeU-kUtYTzMx5NqAboFIDov6_GIY5jK8=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://instagram.com/mabu_crush?utm_medium=copy_link'], 'Facebook': ['https://www.facebook.com/mabu.crush.5249']})",
+      "subscriber": "7.23000, 000 ",
+      "topics": "['Movies', 'Entertainment']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Entertainment']",
+      "uploads": "UUhJRDTWVS8JaDbhsclfTUKg",
+      "verified": "True",
+      "video_count": "1,132 ",
+      "views": "5,261,501,131 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1528}, {\"id\": 1529}, {\"id\": 1530}, {\"id\": 1531}, {\"id\": 1532}, {\"id\": 1533}, {\"id\": 1534}, {\"id\": 1535}, {\"id\": 1536}, {\"id\": 1537}, {\"id\": 1538}, {\"id\": 1539}, {\"id\": 1540}, {\"id\": 1541}, {\"id\": 1542}, {\"id\": 1543}, {\"id\": 1544}, {\"id\": 1545}, {\"id\": 1546}, {\"id\": 1547}, {\"id\": 1548}, {\"id\": 1549}, {\"id\": 1550}, {\"id\": 1551}, {\"id\": 1552}]"
+}
+
+Success for channel UCw5_yzVcT8wDJ3mCbYQBnfg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 88.66666666666667, 'female': 11.333333333333332}",
+      "audience_topics": "{'Movies': 6.8493150684931505, 'Action-adventure game': 1.36986301369863, 'Music of Latin America': 1.36986301369863, 'Lifestyle': 28.767123287671232, 'Role-playing video game': 1.36986301369863, 'Performing arts': 1.36986301369863, 'Music': 10.95890410958904, 'Pop music': 1.36986301369863, 'Gaming': 1.36986301369863, 'Music of Asia': 13.698630136986301, 'Food': 1.36986301369863, 'Fashion': 1.36986301369863, 'Health': 1.36986301369863, 'Action game': 1.36986301369863, 'Humor': 2.73972602739726, 'Entertainment': 13.698630136986301, 'Society': 2.73972602739726, 'Hobby': 6.8493150684931505}",
+      "banner_link": "",
+      "channel_id": "UCw5_yzVcT8wDJ3mCbYQBnfg",
+      "city": "['Shafi Zone', 'Instagram', 'Business Enquires']",
+      "country": "India",
+      "description": "Let's join my zone 😍😍😍 \"Shafi Zone\"Catch me in Instagram 👇https://instagram.com/vjshafiFor Business Enquires - shafizoneofficial@gmail.com",
+      "email": "['shafizoneofficial@gmail.com']",
+      "gender": "",
+      "handle": "@ShafiZone",
+      "id": 91,
+      "joined_data": "Joined Jun 8, 2019",
+      "keywords": "['zone', 'let', 'join', 'shafi', 'catch', 'instagram', 'business', 'enquires', 'shafizoneofficial']",
+      "location": "India",
+      "name": "Shafi Zone",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_l-zdxTccvBNx8nUuEQoklCwHOkSWmTD7JzJBQ5iJCipvg=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/vjshafi/'], 'Facebook': ['https://www.facebook.com/shafizoneofficial'], 'Shafi Zone Vlog': ['https://www.youtube.com/@ShafiZoneVlog'], 'Shafi Zone Shorts': ['https://www.youtube.com/@shafizoneshorts'], 'Twitter': ['https://twitter.com/vjshafi']})",
+      "subscriber": "1.59000, 000 ",
+      "topics": "['Movies', 'Entertainment']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Entertainment']",
+      "uploads": "UUw5_yzVcT8wDJ3mCbYQBnfg",
+      "verified": "True",
+      "video_count": "1,241 ",
+      "views": "593,449,184 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1553}, {\"id\": 1554}, {\"id\": 1555}, {\"id\": 1556}, {\"id\": 1557}, {\"id\": 1558}, {\"id\": 1559}, {\"id\": 1560}, {\"id\": 1561}, {\"id\": 1562}, {\"id\": 1563}, {\"id\": 1564}, {\"id\": 1565}, {\"id\": 1566}, {\"id\": 1567}, {\"id\": 1568}, {\"id\": 1569}, {\"id\": 1570}, {\"id\": 1571}, {\"id\": 1572}, {\"id\": 1573}, {\"id\": 1574}, {\"id\": 1575}, {\"id\": 1576}, {\"id\": 1577}]"
+}
+
+Success for channel UCON_gtDQSNnWS1gwBcqgRKg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 96.66666666666667, 'female': 3.3333333333333335}",
+      "audience_topics": "{'Lifestyle': 17.0, 'Fitness': 1.0, 'Electronic music': 1.0, 'Health': 1.0, 'Entertainment': 11.0, 'Hobby': 3.0, 'Sports game': 1.0, 'Action-adventure game': 5.0, 'Technology': 4.0, 'Role-playing video game': 5.0, 'Religion': 1.0, 'Music': 9.0, 'Racing video game': 1.0, 'Gaming': 8.0, 'Music of Asia': 10.0, 'Humor': 2.0, 'Action game': 6.0, 'Movies': 8.0, 'Strategy video game': 3.0, 'Vehicles': 2.0, 'Food': 1.0}",
+      "banner_link": "",
+      "channel_id": "UCON_gtDQSNnWS1gwBcqgRKg",
+      "city": "['Business']",
+      "country": "India",
+      "description": "Useful & Interesting Tech Videos!Business Enquiries : technologysatire@gmail.com ",
+      "email": "['technologysatire@gmail.com']",
+      "gender": "Male",
+      "handle": "@TechSatire",
+      "id": 92,
+      "joined_data": "Joined Dec 3, 2016",
+      "keywords": "['useful', 'interesting', 'tech', 'videos', 'business', 'enquiries', 'technologysatire']",
+      "location": "India",
+      "name": "Tech Satire",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/Cpt_LWree533kKvJlYZPkOl3gX8rV2XGZhMnFKGZvk4QJ6SnEe9j1pNAi37DGtuooK8Mcm4Y=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Shop': ['https://www.techsatire.shop/']})",
+      "subscriber": "1.4000, 000 ",
+      "topics": "['Entertainment', 'Technology', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Technology', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUON_gtDQSNnWS1gwBcqgRKg",
+      "verified": "True",
+      "video_count": "1,737 ",
+      "views": "411,795,396 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1578}, {\"id\": 1579}, {\"id\": 1580}, {\"id\": 1581}, {\"id\": 1582}, {\"id\": 1583}, {\"id\": 1584}, {\"id\": 1585}, {\"id\": 1586}, {\"id\": 1587}, {\"id\": 1588}, {\"id\": 1589}, {\"id\": 1590}, {\"id\": 1591}, {\"id\": 1592}, {\"id\": 1593}, {\"id\": 1594}, {\"id\": 1595}, {\"id\": 1596}, {\"id\": 1597}, {\"id\": 1598}, {\"id\": 1599}, {\"id\": 1600}, {\"id\": 1601}, {\"id\": 1602}]"
+}
+
+Success for channel UCEuSLR125Q7Boe1ljevF0tA:
+{
+  "inserted_data": [
+    {
+      "age": "",
+      "audience_gender": "{'male': 88.0, 'female': 12.0}",
+      "audience_topics": "{'Christian music': 2.631578947368421, 'Lifestyle': 15.789473684210526, 'Pop music': 10.526315789473683, 'Music of Asia': 26.31578947368421, 'Entertainment': 15.789473684210526, 'Music': 28.947368421052634}",
+      "banner_link": "",
+      "channel_id": "UCEuSLR125Q7Boe1ljevF0tA",
+      "city": "['Brand', 'Vlogging', 'Subscribe', 'DisneyplusHotstar', 'Kanakaanumkaalangal', 'Movies', 'Hero', 'Taana', 'Raatchasi', 'Vijaytelevison', 'Kalakapovadhuyaaru7', 'Blacksheeptv', '____________________________ Social', 'Business', 'Poradhu']",
+      "country": "India",
+      "created_at": "2024-09-28 11:34:49",
+      "description": "For Brand collab / Promotions avasarapatutiyekumaru@gmail.comsurendarvj5@gmail.comHi everyone!! 🙌🏻Am surendar 💁🏻‍♂️, And this is my official channel to connect with me...I love Traveling, Vlogging , riding, entertainment videos, motivation speach, informations, content making , and more. ✨ Subscribe to my channel to know about the things that fascinate me... #psychoaadhi #surendarvj Projects ! DisneyplusHotstar ; #Kanakaanumkaalangal , #kanakaanumkaalangalseason2 Upcoming Film : #siren Movies ; #Hero , #Taana , #utraan , #Raatchasi , Vijaytelevison ; #bommukuttyammavukku , #Kalakapovadhuyaaru7 , #kingspfcomedyjuniors Blacksheeptv ; #comedygajana____________________________Social media :- Instagram :   surendar_vjFor Business Enquiries : business@trendloud.comFacebook   :  surendar   Poradhu poringa apdiye  andha subscribe ah panitu poidunga🤪💁🏻‍♂️",
+      "email": "['avasarapatutiyekumaru@gmail.com', 'surendarvj5@gmail.com', 'business@trendloud.com']",
+      "gender": "",
+      "handle": "@surusparadise",
+      "id": 47,
+      "joined_data": "Joined Apr 9, 2021",
+      "keywords": "['surendar', 'channel', 'subscribe', 'business', 'brand', 'collab', 'promotions', 'avasarapatutiyekumaru', 'everyone', 'official', 'connect', 'love', 'traveling', 'vlogging', 'riding', 'entertainment', 'videos', 'motivation', 'speach', 'informations']",
+      "location": "India",
+      "name": "Suru's Paradise",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/wrfol9b6vfpNZLmWDlLf8mowsNfc7aBshVSmx_0O4B_TfCsaA31gTLVLcAzvpqiJIe11V8-smlc=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {\"Suru's Paradise\": ['https://www.youtube.com/channel/UCEuSLR125Q7Boe1ljevF0tA'], 'Instagram ( surendar_vj )': ['https://www.instagram.com/surendar_vj/']})",
+      "subscriber": "115K ",
+      "topics": "['Entertainment', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "updated_at": "2024-09-28 11:34:49",
+      "uploads": "UUEuSLR125Q7Boe1ljevF0tA",
+      "verified": "True",
+      "video_count": "313 ",
+      "views": "40,990,543 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 509}, {\"id\": 510}, {\"id\": 511}, {\"id\": 512}, {\"id\": 513}, {\"id\": 514}, {\"id\": 515}, {\"id\": 516}, {\"id\": 517}, {\"id\": 518}, {\"id\": 519}, {\"id\": 520}, {\"id\": 521}, {\"id\": 522}, {\"id\": 523}, {\"id\": 524}, {\"id\": 525}, {\"id\": 526}, {\"id\": 527}, {\"id\": 528}, {\"id\": 529}, {\"id\": 530}, {\"id\": 531}, {\"id\": 532}, {\"id\": 533}, {\"id\": 1603}, {\"id\": 1604}, {\"id\": 1605}, {\"id\": 1606}, {\"id\": 1607}, {\"id\": 1608}, {\"id\": 1609}, {\"id\": 1610}, {\"id\": 1611}, {\"id\": 1612}, {\"id\": 1613}, {\"id\": 1614}, {\"id\": 1615}, {\"id\": 1616}, {\"id\": 1617}, {\"id\": 1618}, {\"id\": 1619}, {\"id\": 1620}, {\"id\": 1621}, {\"id\": 1622}, {\"id\": 1623}, {\"id\": 1624}, {\"id\": 1625}, {\"id\": 1626}, {\"id\": 1627}]"
+}
+
+Success for channel UCOVzZ13MqjC26F_Qp4f03Yg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 92.0, 'female': 8.0}",
+      "audience_topics": "{'Lifestyle': 19.631901840490798, 'Performing arts': 0.6134969325153374, 'Pop music': 0.6134969325153374, 'Simulation video game': 0.6134969325153374, 'Electronic music': 0.6134969325153374, 'Entertainment': 11.65644171779141, 'Hobby': 4.294478527607362, 'Action-adventure game': 4.9079754601226995, 'Technology': 1.8404907975460123, 'Role-playing video game': 4.294478527607362, 'Fashion': 0.6134969325153374, 'Pets': 1.8404907975460123, 'TV shows': 0.6134969325153374, 'Music': 8.588957055214724, 'Society': 1.2269938650306749, 'Religion': 1.8404907975460123, 'Gaming': 7.975460122699387, 'Music of Asia': 8.588957055214724, 'Humor': 3.067484662576687, 'Action game': 6.134969325153374, 'Movies': 6.134969325153374, 'Christian music': 0.6134969325153374, 'Strategy video game': 0.6134969325153374, 'Knowledge': 0.6134969325153374, 'Vehicles': 2.4539877300613497}",
+      "banner_link": "",
+      "channel_id": "UCOVzZ13MqjC26F_Qp4f03Yg",
+      "city": "['Hello Friends', 'Science', 'DIY Projects', 'Technology']",
+      "country": "India",
+      "description": "அனைவருக்கும் வணக்கம்:\"உங்கள் உலகத்தை நீங்களே உருவாக்குங்கள்\"நமது தாய் மொழியில் கற்றுக்கொள்ளுங்கள்!!!Hello Friends,In this channel I am going to execute my Idea. I will post videos for Experiments and also some more interesting content related to Science & Technology. This is my dream to do more Experiments and DIY Projects. So please watch and share your valuable comments and suggestions. I definitely teach you something what I know about Science and Technology. Hope you guys will have a look inside the channel and judge the channel. I think, \"Today you will learn something new\".We will upload a new video every Friday @6.00PM!\"Create your World by yourself\"For more videos \"Subscribe now\"For Sponsors and enquiries can contact me on below e-mail:\"agnitamil2000@gmail.com\"Follow us on:",
+      "email": "['agnitamil2000@gmail.com']",
+      "gender": "",
+      "handle": "@AgniTamil",
+      "id": 93,
+      "joined_data": "Joined Jun 2, 2017",
+      "keywords": "['channel', 'videos', 'experiments', 'science', 'technology', 'something', 'new', 'hello', 'friends', 'going', 'execute', 'idea', 'post', 'also', 'interesting', 'content', 'related', 'dream', 'diy', 'projects']",
+      "location": "India",
+      "name": "Agni Tamil",
+      "phone": "['924469407752871', '924469407752871']",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_m_w7E7s86OT5PcoOs0OTE3WyBDGBdVKa5lPFPU2TfPHYA=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/agnitamilofficial?r=nametag'], 'Tiktok': ['http://vm.tiktok.com/eUQJ8P/'], 'Facebook ID': ['https://www.facebook.com/dhanaraj.raj.5264382'], 'Facebook Page': ['https://www.facebook.com/AGNI-Tamil-924469407752871/']})",
+      "subscriber": "1.05000, 000 ",
+      "topics": "['Technology', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Technology', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUOVzZ13MqjC26F_Qp4f03Yg",
+      "verified": "True",
+      "video_count": "359 ",
+      "views": "355,871,548 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1628}, {\"id\": 1629}, {\"id\": 1630}, {\"id\": 1631}, {\"id\": 1632}, {\"id\": 1633}, {\"id\": 1634}, {\"id\": 1635}, {\"id\": 1636}, {\"id\": 1637}, {\"id\": 1638}, {\"id\": 1639}, {\"id\": 1640}, {\"id\": 1641}, {\"id\": 1642}, {\"id\": 1643}, {\"id\": 1644}, {\"id\": 1645}, {\"id\": 1646}, {\"id\": 1647}, {\"id\": 1648}, {\"id\": 1649}, {\"id\": 1650}, {\"id\": 1651}, {\"id\": 1652}]"
+}
+
+Success for channel UCpxYT5ZsN4YhLfHd52cz75g:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 83.33333333333334, 'female': 16.666666666666664}",
+      "audience_topics": "{'Lifestyle': 33.33333333333333, 'Music of Asia': 16.666666666666664, 'Food': 16.666666666666664, 'Fashion': 16.666666666666664, 'Music': 16.666666666666664}",
+      "banner_link": "",
+      "channel_id": "UCpxYT5ZsN4YhLfHd52cz75g",
+      "city": "['Hello', 'Pooja Rajendran', 'Vannakam', 'Namaste', 'Swagat', 'Don', 'Love Pooja']",
+      "country": "India",
+      "description": "Hello 👋 , I’m Pooja Rajendran.Vannakam! Namaste! Namoshkar! Namaskaram! Swagat! 🙏🏻 Just an another girl from a tiny family on the earth with lots of hope and dreams! Welcome to my channel ! Strictly Entertainment, fun and some touch of sentiments! My own vlog to get connected with my people around the world❤️Don’t forget to subscribe! Join my virtual family now!!!!! Love Pooja ❤️",
+      "email": "[]",
+      "gender": "Female",
+      "handle": "@pooja__rajendran",
+      "id": 94,
+      "joined_data": "Joined Mar 7, 2021",
+      "keywords": "['pooja', 'family', 'hello', 'namaste', 'namoshkar', 'namaskaram', 'swagat', 'another', 'girl', 'tiny', 'earth', 'lots', 'hope', 'dreams', 'welcome', 'channel', 'strictly', 'entertainment', 'fun', 'touch']",
+      "location": "India",
+      "name": "Pooja Rajendran",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/d6Mu0v8CPUwUNCJ946CG7xkTqeHlEOcyX-TLCxRyEoW0rrQ5k-_4_Odhh_ELrHaODFOwSIcjFVE=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/pooja__rajendran/reels/'], 'Facebook': ['https://www.facebook.com/PoojaaRaaj']})",
+      "subscriber": "240K ",
+      "topics": "['Food', 'Lifestyle', 'Fashion']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Fashion']",
+      "uploads": "UUpxYT5ZsN4YhLfHd52cz75g",
+      "verified": "True",
+      "video_count": "695 ",
+      "views": "97,747,854 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1653}, {\"id\": 1654}, {\"id\": 1655}, {\"id\": 1656}, {\"id\": 1657}, {\"id\": 1658}, {\"id\": 1659}, {\"id\": 1660}, {\"id\": 1661}, {\"id\": 1662}, {\"id\": 1663}, {\"id\": 1664}, {\"id\": 1665}, {\"id\": 1666}, {\"id\": 1667}, {\"id\": 1668}, {\"id\": 1669}, {\"id\": 1670}, {\"id\": 1671}, {\"id\": 1672}, {\"id\": 1673}, {\"id\": 1674}, {\"id\": 1675}, {\"id\": 1676}, {\"id\": 1677}]"
+}
+
+Success for channel UC1RBej3dtZOJrnsCWzgz1DQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 98.0, 'female': 2.0}",
+      "audience_topics": "{'Lifestyle': 26.47058823529412, 'Pop music': 1.4705882352941175, 'Entertainment': 8.823529411764707, 'Hobby': 4.411764705882353, 'Action-adventure game': 1.4705882352941175, 'Role-playing video game': 1.4705882352941175, 'Fashion': 1.4705882352941175, 'Pets': 2.941176470588235, 'TV shows': 1.4705882352941175, 'Society': 1.4705882352941175, 'Music': 13.23529411764706, 'Religion': 1.4705882352941175, 'Gaming': 2.941176470588235, 'Music of Asia': 14.705882352941178, 'Humor': 1.4705882352941175, 'Action game': 2.941176470588235, 'Movies': 2.941176470588235, 'Knowledge': 2.941176470588235, 'Sports': 1.4705882352941175, 'Food': 4.411764705882353}",
+      "banner_link": "",
+      "channel_id": "UC1RBej3dtZOJrnsCWzgz1DQ",
+      "city": "['Let', 'Vibe Tamil', 'Madurai', 'Chennai', 'Coimbatore', 'Madurai Food Review', 'Chennai Food Review', 'Coimbatore Food', 'Unexplored Places', 'Click', 'Subscribe Button', 'Vibe', 'Hit', 'Bell']",
+      "country": "India",
+      "description": " Yes You're here now to vibe with us 🤙 Let's Vibe Tamil the complete food guide , travel exploring videos and regular updates of Madurai , Chennai and Coimbatore ✨️ On this channel we share our experience of the exotic foods and unexplored places that we eat & explore for you . So kindly stay tuned with Let's Vibe to experience and enjoy the food , travel and update videos of Madurai Food Review , Chennai Food Review as well as Coimbatore Food review along with Unexplored Places in India.🤩Click on the Subscribe Button to be Updated with Let's Vibe and Hit on the Bell icon to receive the alert of every videos 🛎",
+      "email": "[]",
+      "gender": "",
+      "handle": "@Letsvibetamil",
+      "id": 95,
+      "joined_data": "Joined Apr 1, 2022",
+      "keywords": "['food', 'vibe', 'let', 'videos', 'review', 'travel', 'madurai', 'chennai', 'coimbatore', 'experience', 'unexplored', 'places', 'yes', 'us', 'tamil', 'complete', 'guide', 'exploring', 'regular', 'updates']",
+      "location": "India",
+      "name": "Lets Vibe",
+      "phone": "['101870839121214', '101870839121214', '80221058', '11044275']",
+      "photo_link": "https://yt3.googleusercontent.com/NXqiiANNI0YPkDKCskhN6OFSu27Fu6DHAL8cArIm6D5EGG7i4XqmH61eSqWkNw39mMttKBat_w=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/letsvibe_madurai?igsh=MWR1aW5ld3RqeXdoYw=='], 'Facebook': ['https://www.facebook.com/Letsvibetamil-101870839121214'], 'Linkedin': ['https://www.linkedin.com/company/80221058'], 'Twitter': ['https://twitter.com/Letsvib13391373']})",
+      "subscriber": "203K ",
+      "topics": "['Food', 'Lifestyle', 'Entertainment']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Entertainment']",
+      "uploads": "UU1RBej3dtZOJrnsCWzgz1DQ",
+      "verified": "True",
+      "video_count": "1,726 ",
+      "views": "62,844,664 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1678}, {\"id\": 1679}, {\"id\": 1680}, {\"id\": 1681}, {\"id\": 1682}, {\"id\": 1683}, {\"id\": 1684}, {\"id\": 1685}, {\"id\": 1686}, {\"id\": 1687}, {\"id\": 1688}, {\"id\": 1689}, {\"id\": 1690}, {\"id\": 1691}, {\"id\": 1692}, {\"id\": 1693}, {\"id\": 1694}, {\"id\": 1695}, {\"id\": 1696}, {\"id\": 1697}, {\"id\": 1698}, {\"id\": 1699}, {\"id\": 1700}, {\"id\": 1701}, {\"id\": 1702}]"
+}
+
+Success for channel UC8dzuCib0JtYOba641sqd1g:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 87.5, 'female': 12.5}",
+      "audience_topics": "{'Movies': 21.428571428571427, 'Action-adventure game': 7.142857142857142, 'Role-playing video game': 7.142857142857142, 'Gaming': 7.142857142857142, 'Music of Asia': 14.285714285714285, 'Action game': 7.142857142857142, 'Entertainment': 21.428571428571427, 'Music': 14.285714285714285}",
+      "banner_link": "",
+      "channel_id": "UC8dzuCib0JtYOba641sqd1g",
+      "city": "[]",
+      "country": "Country not found for the given shortcode.",
+      "description": "#vettipayanvenkat Entertainment🎵✍️🎙▶️",
+      "email": "[]",
+      "gender": "Male",
+      "handle": "@vettipayanvenkat9331",
+      "id": 96,
+      "joined_data": "Joined Nov 19, 2018",
+      "keywords": "['vettipayanvenkat']",
+      "location": "",
+      "name": "Vetti Payan Venkat",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/Nvx1qMCQ-zHYyJbREc9HWKIYUQecc_RMU_plZgDu5BmEw1EFgQxa5_VALLudoZ_T8lKtohJ52g=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "23.9K ",
+      "topics": "['Movies', 'Entertainment']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Entertainment']",
+      "uploads": "UU8dzuCib0JtYOba641sqd1g",
+      "verified": "False",
+      "video_count": "386 ",
+      "views": "4,024,037 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1703}, {\"id\": 1704}, {\"id\": 1705}, {\"id\": 1706}, {\"id\": 1707}, {\"id\": 1708}, {\"id\": 1709}, {\"id\": 1710}, {\"id\": 1711}, {\"id\": 1712}, {\"id\": 1713}, {\"id\": 1714}, {\"id\": 1715}, {\"id\": 1716}, {\"id\": 1717}, {\"id\": 1718}, {\"id\": 1719}, {\"id\": 1720}, {\"id\": 1721}, {\"id\": 1722}, {\"id\": 1723}, {\"id\": 1724}, {\"id\": 1725}, {\"id\": 1726}, {\"id\": 1727}]"
+}
+
+Success for channel UCmvXitY0XLYHr9xZcVIJ0TQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 100.0, 'female': 0.0}",
+      "audience_topics": "{'Action-adventure game': 12.5, 'Role-playing video game': 12.5, 'Lifestyle': 25.0, 'Gaming': 12.5, 'Music of Asia': 12.5, 'Action game': 12.5, 'Music': 12.5}",
+      "banner_link": "",
+      "channel_id": "UCmvXitY0XLYHr9xZcVIJ0TQ",
+      "city": "[]",
+      "country": "Country not found for the given shortcode.",
+      "description": "",
+      "email": "[]",
+      "gender": "Male",
+      "handle": "@siddhupillala9128",
+      "id": 97,
+      "joined_data": "Joined Feb 14, 2021",
+      "keywords": "None",
+      "location": "",
+      "name": "siddhu pillala",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/Qbz7FVhAkDYeVXUIklg-pdoPhTeqfb0pME3-z4t_7SG_PslVfD9iNlWTXQgFWv9Ll1LIHZkAYg=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'youtube': ['http://www.youtube.com/siddhupillala'], 'Facebook': ['https://www.facebook.com/siddhupillala'], 'Instagram': ['https://www.instagram.com/siddhupillala']})",
+      "subscriber": "8.05K ",
+      "topics": "['Music', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUmvXitY0XLYHr9xZcVIJ0TQ",
+      "verified": "False",
+      "video_count": "18 ",
+      "views": "183,981 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1728}, {\"id\": 1729}, {\"id\": 1730}, {\"id\": 1731}, {\"id\": 1732}, {\"id\": 1733}, {\"id\": 1734}, {\"id\": 1735}, {\"id\": 1736}, {\"id\": 1737}, {\"id\": 1738}, {\"id\": 1739}, {\"id\": 1740}, {\"id\": 1741}, {\"id\": 1742}, {\"id\": 1743}, {\"id\": 1744}, {\"id\": 1745}]"
+}
+
+Success for channel UCG6Q-1cGryJntcjRNXrhGRQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 90.47619047619048, 'female': 9.523809523809524}",
+      "audience_topics": "{'Technology': 16.666666666666664, 'Hobby': 16.666666666666664, 'Lifestyle': 66.66666666666666}",
+      "banner_link": "",
+      "channel_id": "UCG6Q-1cGryJntcjRNXrhGRQ",
+      "city": "['Sneha', 'Snigdha', 'Happy', 'Subscribe', 'Email']",
+      "country": "India",
+      "description": "Hey everyone, We are Sneha and Snigdha polapragada. Happy and fun digital content creators. S&S in short 😉We make videos on fashion, travel, photography, lifestyle, and So on. Catch us on shorts once every 3 days.And exclusive vlogs alternative Thursdays.Subscribe to this channel for exciting, fun, and informative content.  For business enquires, Email ekisaa.businessenquiry@gmail.com",
+      "email": "['ekisaa.businessenquiry@gmail.com']",
+      "gender": "",
+      "handle": "@sspolapragada1713",
+      "id": 98,
+      "joined_data": "Joined Nov 10, 2018",
+      "keywords": "['fun', 'content', 'hey', 'everyone', 'sneha', 'snigdha', 'polapragada', 'happy', 'digital', 'creators', 'short', 'make', 'videos', 'fashion', 'travel', 'photography', 'lifestyle', 'catch', 'us', 'shorts']",
+      "location": "India",
+      "name": "S&S Polapragada",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_nVDfe5lLPUehCwOcSgawQ_mswLe3T_WnEzt1xEswRr2tM=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Sneha Polapragada': ['https://instagram.com/snehapolapragada?igshid=13emc64e6vb1g'], 'Snigdha Polapragada': ['https://instagram.com/snigdhapv?igshid=1caxvbay0nivn'], 'Ekisa by S&S': ['https://instagram.com/ekisabysands?igshid=v6gckx83zsm8']})",
+      "subscriber": "47K ",
+      "topics": "['Fashion', 'Lifestyle', 'Hobby']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Fashion', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Hobby']",
+      "uploads": "UUG6Q-1cGryJntcjRNXrhGRQ",
+      "verified": "False",
+      "video_count": "495 ",
+      "views": "38,980,596 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1746}, {\"id\": 1747}, {\"id\": 1748}, {\"id\": 1749}, {\"id\": 1750}, {\"id\": 1751}, {\"id\": 1752}, {\"id\": 1753}, {\"id\": 1754}, {\"id\": 1755}, {\"id\": 1756}, {\"id\": 1757}, {\"id\": 1758}, {\"id\": 1759}, {\"id\": 1760}, {\"id\": 1761}, {\"id\": 1762}, {\"id\": 1763}, {\"id\": 1764}, {\"id\": 1765}, {\"id\": 1766}, {\"id\": 1767}, {\"id\": 1768}, {\"id\": 1769}, {\"id\": 1770}]"
+}
+
+Success for channel UCPtMXS-uCNZYJE8moxeeBIw:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 80.0, 'female': 20.0}",
+      "audience_topics": "{'Sports game': 4.166666666666666, 'Lifestyle': 37.5, 'Society': 4.166666666666666, 'Gaming': 4.166666666666666, 'Music of Asia': 12.5, 'Food': 8.333333333333332, 'Fashion': 4.166666666666666, 'Music': 12.5, 'Hobby': 12.5}",
+      "banner_link": "",
+      "channel_id": "UCPtMXS-uCNZYJE8moxeeBIw",
+      "city": "['Hey Lovelies', 'Itsanika', 'FASHION', 'BEAUTY', 'TRAVEL', 'COVER', 'SONGS', 'SISTERS', 'DHUNIYA']",
+      "country": "India",
+      "description": "Follow us on : Instagram links https://instagram.com/priyainturu_6?igshid=1me2wcn9iramahttps://instagram.com/__itsanika?igshid=a1bmoytw5lqiyoutube channel linkhttps://www.youtube.com/channel/UCPtMXS-uCNZYJE8moxeeBIwHey Lovelies.....!!!!     We Priyainturu and Itsanika welcomes you to our channel.Our channel is all about FASHION,BEAUTY,TRAVEL,COVER SONGS AND DIY.Lets explore the world and will have all the fun. So dont forget to subscribe to our channel SISTERS DHUNIYA for more entertainment and interesting videos.   keep smiling:)",
+      "email": "[]",
+      "gender": "Female",
+      "handle": "@sistersdhuniya7858",
+      "id": 99,
+      "joined_data": "Joined Dec 26, 2019",
+      "keywords": "['channel', 'follow', 'us', 'instagram', 'links', 'https', 'linkhttps', 'lovelies', 'priyainturu', 'itsanika', 'welcomes', 'fashion', 'beauty', 'travel', 'cover', 'songs', 'explore', 'world', 'fun', 'dont']",
+      "location": "India",
+      "name": "Sisters Dhuniya",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_nIvYHqDegMtZbbpxvrad0eDHeTBgJ3DJZKh8qvP38aUr0=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "38.5K ",
+      "topics": "['Lifestyle', 'Fashion']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Fashion']",
+      "uploads": "UUPtMXS-uCNZYJE8moxeeBIw",
+      "verified": "False",
+      "video_count": "162 ",
+      "views": "8,467,241 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1771}, {\"id\": 1772}, {\"id\": 1773}, {\"id\": 1774}, {\"id\": 1775}, {\"id\": 1776}, {\"id\": 1777}, {\"id\": 1778}, {\"id\": 1779}, {\"id\": 1780}, {\"id\": 1781}, {\"id\": 1782}, {\"id\": 1783}, {\"id\": 1784}, {\"id\": 1785}, {\"id\": 1786}, {\"id\": 1787}, {\"id\": 1788}, {\"id\": 1789}, {\"id\": 1790}, {\"id\": 1791}, {\"id\": 1792}, {\"id\": 1793}, {\"id\": 1794}, {\"id\": 1795}]"
+}
+
+Failed for channel UCJ973uhz6Cym9lQYeM077GA:
+Request failed with status code 500
+
+Success for channel UCWy7-enhZgiwW7wQj82xqKQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 90.0, 'female': 10.0}",
+      "audience_topics": "{'Boxing': 1.7543859649122806, 'Lifestyle': 31.57894736842105, 'Performing arts': 3.508771929824561, 'Entertainment': 5.263157894736842, 'Hobby': 8.771929824561402, 'Action-adventure game': 1.7543859649122806, 'Role-playing video game': 1.7543859649122806, 'Pets': 1.7543859649122806, 'Religion': 1.7543859649122806, 'Society': 1.7543859649122806, 'Music': 10.526315789473683, 'Gaming': 1.7543859649122806, 'Music of Asia': 14.035087719298245, 'Action game': 1.7543859649122806, 'Movies': 1.7543859649122806, 'Knowledge': 3.508771929824561, 'Sports': 1.7543859649122806, 'Vehicles': 3.508771929824561, 'Food': 1.7543859649122806}",
+      "banner_link": "",
+      "channel_id": "UCWy7-enhZgiwW7wQj82xqKQ",
+      "city": "['Hyderabad', 'India', 'Goal']",
+      "country": "Country not found for the given shortcode.",
+      "description": "Dancer & Choreographer from Hyderabad,India.Goal : To spread smiles through dancing ❤️Follow me on instagram @mrinali_kiran for more updates and enquiries.",
+      "email": "[]",
+      "gender": "Female",
+      "handle": "@MrinaliKiran_DanceTalk",
+      "id": 101,
+      "joined_data": "Joined Mar 20, 2020",
+      "keywords": "['dancer', 'choreographer', 'hyderabad', 'spread', 'smiles', 'dancing', 'instagram', 'updates', 'enquiries']",
+      "location": "",
+      "name": "Mrinali Kiran",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/kxqUYJGMFKMDm00samVU1LU6_7UJW1NqYhlI9rs544vuyoLljRRNp_nxZ4BzHsqFpXhBXMzOyA=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "21.8K ",
+      "topics": "['Pop music', 'Music', 'Performing arts', 'Music of Asia', 'Entertainment', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Pop_music', 'https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Performing_arts', 'https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUWy7-enhZgiwW7wQj82xqKQ",
+      "verified": "False",
+      "video_count": "78 ",
+      "views": "11,793,759 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1796}, {\"id\": 1797}, {\"id\": 1798}, {\"id\": 1799}, {\"id\": 1800}, {\"id\": 1801}, {\"id\": 1802}, {\"id\": 1803}, {\"id\": 1804}, {\"id\": 1805}, {\"id\": 1806}, {\"id\": 1807}, {\"id\": 1808}, {\"id\": 1809}, {\"id\": 1810}, {\"id\": 1811}, {\"id\": 1812}, {\"id\": 1813}, {\"id\": 1814}, {\"id\": 1815}, {\"id\": 1816}, {\"id\": 1817}, {\"id\": 1818}, {\"id\": 1819}, {\"id\": 1820}]"
+}
+
+Success for channel UCefwHBWfv98twiv6muJnwhQ:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 69.33333333333334, 'female': 30.666666666666664}",
+      "audience_topics": "{'Religion': 1.3333333333333335, 'Action-adventure game': 1.3333333333333335, 'Lifestyle': 33.33333333333333, 'Role-playing video game': 1.3333333333333335, 'Knowledge': 4.0, 'Pop music': 2.666666666666667, 'Society': 1.3333333333333335, 'Gaming': 1.3333333333333335, 'Sports': 1.3333333333333335, 'Music of Asia': 16.0, 'Food': 1.3333333333333335, 'Fashion': 4.0, 'Pets': 1.3333333333333335, 'Cricket': 1.3333333333333335, 'Humor': 1.3333333333333335, 'Entertainment': 2.666666666666667, 'Music': 16.0, 'Hobby': 8.0}",
+      "banner_link": "",
+      "channel_id": "UCefwHBWfv98twiv6muJnwhQ",
+      "city": "['Hello', 'Alekhya', 'Heavenly Homemade', 'Skincare', 'Makeup']",
+      "country": "India",
+      "description": "Hello everyone This is Alekhya (Heavenly Homemade )❤️❤️I make videos on Skincare,Shopping🛍 , Makeup,💄Diy’s🧑‍🦰Vlogs 🎥and alot  You will definitely enjoy my videos once you starting watching them So make sure u don’t forget to subscribe and hit the bell icon And also follow me on Instagram this is the link below ",
+      "email": "['vr2gether4ver@gmail.com']",
+      "gender": "",
+      "handle": "@HeavenlyHomemade",
+      "id": 102,
+      "joined_data": "Joined Mar 9, 2017",
+      "keywords": "['make', 'videos', 'hello', 'everyone', 'alekhya', 'heavenly', 'homemade', 'skincare', 'makeup', 'alot', 'definitely', 'enjoy', 'starting', 'watching', 'sure', 'forget', 'subscribe', 'hit', 'bell', 'icon']",
+      "location": "India",
+      "name": "Heavenly Homemade",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/CF5FOWdQ402HA3_Wro0_gNiXBa-cndkhjxffdBJGGqRipiRom1Bos32vXSoR7M_WRoXyvb_SYg=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/heavenly_home_made'], 'Email': ['vr2gether4ver@gmail.com'], 'Telegram': ['https://t.me/heavenlyhomemade'], 'Facebook': ['https://www.facebook.com/heavenlyhomemadeofficial']})",
+      "subscriber": "500K ",
+      "topics": "['Fashion', 'Lifestyle', 'Hobby']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Fashion', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Hobby']",
+      "uploads": "UUefwHBWfv98twiv6muJnwhQ",
+      "verified": "True",
+      "video_count": "2,104 ",
+      "views": "201,377,389 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1821}, {\"id\": 1822}, {\"id\": 1823}, {\"id\": 1824}, {\"id\": 1825}, {\"id\": 1826}, {\"id\": 1827}, {\"id\": 1828}, {\"id\": 1829}, {\"id\": 1830}, {\"id\": 1831}, {\"id\": 1832}, {\"id\": 1833}, {\"id\": 1834}, {\"id\": 1835}, {\"id\": 1836}, {\"id\": 1837}, {\"id\": 1838}, {\"id\": 1839}, {\"id\": 1840}, {\"id\": 1841}, {\"id\": 1842}, {\"id\": 1843}, {\"id\": 1844}, {\"id\": 1845}]"
+}
+
+Success for channel UCZte1uhEjZUafcmOWjAhLag:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "[]",
+      "audience_topics": "[]",
+      "banner_link": "",
+      "channel_id": "UCZte1uhEjZUafcmOWjAhLag",
+      "city": "['Kolam', 'Easy Rangolis']",
+      "country": "India",
+      "description": "Hii friends...🧿🌺🌼Rangoli design Kolam design muggulu chukkala muggulu dots rangoliThanks for watching 🧿🌸🌺Please subscribe for more attractive rangoli videos.........#Easy Rangolis",
+      "email": "[]",
+      "gender": "",
+      "handle": "@EasyRangolis1",
+      "id": 103,
+      "joined_data": "Joined Jun 24, 2019",
+      "keywords": "['design', 'muggulu', 'hii', 'friends', 'kolam', 'chukkala', 'dots', 'rangolithanks', 'watching', 'subscribe', 'attractive', 'rangoli', 'videos', 'easy', 'rangolis']",
+      "location": "India",
+      "name": "Easy Rangolis",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/6XEEKtRwDC5oztca-wmluf6p-zgV5AUzARX6ZgI5RRB4CA8u1gFdHHfN4AouNylG1RuYRB9g4A=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'youtube': ['https://www.youtube.com/channel/UCZte1uhEjZUafcmOWjAhLag']})",
+      "subscriber": "148K ",
+      "topics": "['Lifestyle', 'Hobby']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Hobby']",
+      "uploads": "UUZte1uhEjZUafcmOWjAhLag",
+      "verified": "True",
+      "video_count": "1,755 ",
+      "views": "45,839,762 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1846}, {\"id\": 1847}, {\"id\": 1848}, {\"id\": 1849}, {\"id\": 1850}, {\"id\": 1851}, {\"id\": 1852}, {\"id\": 1853}, {\"id\": 1854}, {\"id\": 1855}, {\"id\": 1856}, {\"id\": 1857}, {\"id\": 1858}, {\"id\": 1859}, {\"id\": 1860}, {\"id\": 1861}, {\"id\": 1862}, {\"id\": 1863}, {\"id\": 1864}, {\"id\": 1865}, {\"id\": 1866}, {\"id\": 1867}, {\"id\": 1868}, {\"id\": 1869}, {\"id\": 1870}]"
+}
+
+Success for channel UCSbq2Af0zuxcywafXYe8KPg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 86.66666666666667, 'female': 13.333333333333334}",
+      "audience_topics": "{'Politics': 0.7692307692307693, 'Lifestyle': 20.76923076923077, 'Fitness': 0.7692307692307693, 'Performing arts': 2.307692307692308, 'Pop music': 3.076923076923077, 'Electronic music': 0.7692307692307693, 'Health': 0.7692307692307693, 'Entertainment': 8.461538461538462, 'Hobby': 1.5384615384615385, 'Action-adventure game': 0.7692307692307693, 'Role-playing video game': 0.7692307692307693, 'Pets': 1.5384615384615385, 'Religion': 0.7692307692307693, 'Society': 1.5384615384615385, 'Music': 23.076923076923077, 'Gaming': 0.7692307692307693, 'Music of Asia': 23.076923076923077, 'Humor': 1.5384615384615385, 'Action game': 0.7692307692307693, 'Movies': 3.8461538461538463, 'Sports': 0.7692307692307693, 'Vehicles': 0.7692307692307693, 'Food': 0.7692307692307693}",
+      "banner_link": "",
+      "channel_id": "UCSbq2Af0zuxcywafXYe8KPg",
+      "city": "[]",
+      "country": "India",
+      "description": "❤️‍🩹కలిసుంటే బాగుండేదమ్మా🥹👉సీటుకేస్తే పోయేప్రాణం చేసిన 1 YEAR తర్వాత మళ్ళీ మీ అందరికి గుర్తుండిపోయే మంచి పాటతో వచ్చాము SONG RELEASE అయ్యింది వెళ్లి చూడండి🙏దయచేసి ఈ పాటని మీకు తెలిసిన ప్రతిఒక్కరికి share చేయండి🥹🙏Pls మంచి పాటని బ్రతికించండి😭🙏",
+      "email": "[]",
+      "gender": "",
+      "handle": "@GanuFolks",
+      "id": 104,
+      "joined_data": "Joined Sep 24, 2020",
+      "keywords": "['year', 'song', 'release', 'share']",
+      "location": "India",
+      "name": "Ganu Folks",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_np8Gxw_DKLU0S907g07N7btPXwKGbCzMcu7wrZMrzxQg=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Follow': ['https://instagram.com/imganu_3?utm_medium=copy_link'], 'SUBSCRIBE': ['https://www.youtube.com/c/GanuFolks']})",
+      "subscriber": "715K ",
+      "topics": "['Music', 'Music of Asia']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Music_of_Asia']",
+      "uploads": "UUSbq2Af0zuxcywafXYe8KPg",
+      "verified": "True",
+      "video_count": "18 ",
+      "views": "238,538,179 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1871}, {\"id\": 1872}, {\"id\": 1873}, {\"id\": 1874}, {\"id\": 1875}, {\"id\": 1876}, {\"id\": 1877}, {\"id\": 1878}, {\"id\": 1879}, {\"id\": 1880}, {\"id\": 1881}, {\"id\": 1882}, {\"id\": 1883}, {\"id\": 1884}, {\"id\": 1885}, {\"id\": 1886}, {\"id\": 1887}, {\"id\": 1888}]"
+}
+
+Failed for channel UCCN3_OrWlBZB1edEdcyMhZg:
+Request failed with status code 500
+
+Failed for channel UCeyqjoLtEipIp8VdKiUFW3g:
+Request failed with status code 500
+
+Success for channel UC8RPPDm4Tgapblch6a7B4Iw:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 82.35294117647058, 'female': 17.647058823529413}",
+      "audience_topics": "{'Lifestyle': 38.88888888888889, 'Music of Asia': 22.22222222222222, 'Fashion': 5.555555555555555, 'Entertainment': 11.11111111111111, 'Music': 22.22222222222222}",
+      "banner_link": "",
+      "channel_id": "UC8RPPDm4Tgapblch6a7B4Iw",
+      "city": "[]",
+      "country": "India",
+      "description": "❤Self made vth❤ self talent... Vth all da 😘love of our Fam 🥰🥰🥰 Thanks for da 💖Love n support 😍😍",
+      "email": "[]",
+      "gender": "",
+      "handle": "@PallaviAshwini",
+      "id": 107,
+      "joined_data": "Joined Dec 12, 2019",
+      "keywords": "['da', 'made', 'self', 'talent', 'vth', 'fam', 'thanks', 'support']",
+      "location": "India",
+      "name": "Pallavi Ashwini",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/XY6jQdF0RtI-5WndpN0VCgYtVsU_BmmXGCTDC1y9_InJ_l_oBX_euoSFTHrgKZJsPFiwdICP=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram : Pallavi Ashwini': ['https://instagram.com/pallavi_ashwini?utm_medium=copy_link'], 'Facebook : Pallavi Ashwini': ['https://www.facebook.com/pallavi.ashwini.92'], 'Moj : Pallavi Ashwini': ['https://mojapp.in/@pallaviashwini?referrer=iOS&h=SxoolwA-voNc93'], 'Instagram : milolavi16': ['https://instagram.com/milolavi16?utm_medium=copy_link'], 'Moj : milolavi': ['https://mojapp.in/@milolavi?referrer=iOS&h=SxooiKW-1kmLwUH'], 'Youtube : Ashwini Swetha': ['https://youtube.com/channel/UCyFoAm6hy2m2et1b2D8CbFg']})",
+      "subscriber": "713K ",
+      "topics": "['Lifestyle', 'Music of Asia', 'Music']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Music']",
+      "uploads": "UU8RPPDm4Tgapblch6a7B4Iw",
+      "verified": "True",
+      "video_count": "835 ",
+      "views": "607,952,440 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1889}, {\"id\": 1890}, {\"id\": 1891}, {\"id\": 1892}, {\"id\": 1893}, {\"id\": 1894}, {\"id\": 1895}, {\"id\": 1896}, {\"id\": 1897}, {\"id\": 1898}, {\"id\": 1899}, {\"id\": 1900}, {\"id\": 1901}, {\"id\": 1902}, {\"id\": 1903}, {\"id\": 1904}, {\"id\": 1905}, {\"id\": 1906}, {\"id\": 1907}, {\"id\": 1908}, {\"id\": 1909}, {\"id\": 1910}, {\"id\": 1911}, {\"id\": 1912}, {\"id\": 1913}]"
+}
+
+Success for channel UCsC0cYmi5xOu0pNu4DoVZlw:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 79.0, 'female': 21.0}",
+      "audience_topics": "{'Religion': 4.761904761904762, 'Lifestyle': 33.33333333333333, 'Performing arts': 2.380952380952381, 'Knowledge': 2.380952380952381, 'Society': 2.380952380952381, 'Music of Asia': 21.428571428571427, 'Food': 4.761904761904762, 'Fashion': 2.380952380952381, 'Entertainment': 2.380952380952381, 'Music': 21.428571428571427, 'Hobby': 2.380952380952381}",
+      "banner_link": "",
+      "channel_id": "UCsC0cYmi5xOu0pNu4DoVZlw",
+      "city": "['MY', 'Pranathy Manasupalike', 'YouTube', 'Singing', 'Poetry', 'Dance Performances']",
+      "country": "United States",
+      "description": "ABOUT MY CHANNEL :https://linktr.ee/premathomeepranaviWelcome to the \"Pranathy Manasupalike\" YouTube channel, your one place for all things about dancing, Singing and Poetry. \"Get a sneak peek of Dance Performances, Behind the scenes and bloopers , fun videos with our choreographers and many many more cool videos only on the \" Pranathy Manasupalike \"YouTubeFor more info visit us:https://www.facebook.com/PranathyManasupalikehttps://www.instagram.com/pranathymanasupalike/https://www.boloindya.com/user/7702507/pranathymanasupalikey",
+      "email": "[]",
+      "gender": "",
+      "handle": "@PranathyManasupalike",
+      "id": 108,
+      "joined_data": "Joined Jul 9, 2020",
+      "keywords": "['channel', 'https', 'pranathy', 'manasupalike', 'videos', 'many', 'youtube', 'one', 'place', 'things', 'dancing', 'singing', 'poetry', 'get', 'sneak', 'peek', 'dance', 'performances', 'behind', 'scenes']",
+      "location": "United States",
+      "name": "Pranathy Manasupalike",
+      "phone": "['100014669329218']",
+      "photo_link": "https://yt3.googleusercontent.com/d6Xdf1CYlWFjcpvFad_rjNw2P-q1sxK4VZIL8YpXs2vKNTok79XLi4IVl1bVyYRHUmvf5FmvsA=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Facebook': ['https://www.facebook.com/profile.php?id=100014669329218'], 'Instagram': ['https://www.instagram.com/pranathymanasupalike']})",
+      "subscriber": "173K ",
+      "topics": "['Music', 'Music of Asia', 'Entertainment', 'Lifestyle']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",
+      "uploads": "UUsC0cYmi5xOu0pNu4DoVZlw",
+      "verified": "False",
+      "video_count": "2,174 ",
+      "views": "71,329,833 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1914}, {\"id\": 1915}, {\"id\": 1916}, {\"id\": 1917}, {\"id\": 1918}, {\"id\": 1919}, {\"id\": 1920}, {\"id\": 1921}, {\"id\": 1922}, {\"id\": 1923}, {\"id\": 1924}, {\"id\": 1925}, {\"id\": 1926}, {\"id\": 1927}, {\"id\": 1928}, {\"id\": 1929}, {\"id\": 1930}, {\"id\": 1931}, {\"id\": 1932}, {\"id\": 1933}, {\"id\": 1934}, {\"id\": 1935}, {\"id\": 1936}, {\"id\": 1937}, {\"id\": 1938}]"
+}
+
+Success for channel UCUlGF1am1b0svFXI1ZeKu-A:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 93.61702127659575, 'female': 6.382978723404255}",
+      "audience_topics": "{'Movies': 2.272727272727273, 'Religion': 2.272727272727273, 'Lifestyle': 18.181818181818183, 'Sports': 2.272727272727273, 'Music of Asia': 31.818181818181817, 'Cricket': 2.272727272727273, 'Humor': 2.272727272727273, 'Entertainment': 4.545454545454546, 'Music': 29.545454545454547, 'Hobby': 4.545454545454546}",
+      "banner_link": "",
+      "channel_id": "UCUlGF1am1b0svFXI1ZeKu-A",
+      "city": "[]",
+      "country": "India",
+      "description": "प्रवास हा माणसाला जगण्याचा अर्थ सांगून जातो ",
+      "email": "[]",
+      "gender": "",
+      "handle": "@varshachaskar",
+      "id": 109,
+      "joined_data": "Joined Oct 26, 2015",
+      "keywords": "[]",
+      "location": "India",
+      "name": "Varsha Chaskar",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/qw5EXaXqmpg0QvVtPR5dTUOZrO7rYH7_P3NDmQX4kgFD_5asdETVKOIKkPSmbkhE6QldzV809A=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {})",
+      "subscriber": "4.92K ",
+      "topics": "['Music of Asia', 'Lifestyle', 'Music']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music']",
+      "uploads": "UUUlGF1am1b0svFXI1ZeKu-A",
+      "verified": "False",
+      "video_count": "123 ",
+      "views": "1,868,512 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1939}, {\"id\": 1940}, {\"id\": 1941}, {\"id\": 1942}, {\"id\": 1943}, {\"id\": 1944}, {\"id\": 1945}, {\"id\": 1946}, {\"id\": 1947}, {\"id\": 1948}, {\"id\": 1949}, {\"id\": 1950}, {\"id\": 1951}, {\"id\": 1952}, {\"id\": 1953}, {\"id\": 1954}, {\"id\": 1955}, {\"id\": 1956}, {\"id\": 1957}, {\"id\": 1958}, {\"id\": 1959}, {\"id\": 1960}, {\"id\": 1961}, {\"id\": 1962}, {\"id\": 1963}]"
+}
+
+Failed for channel UCJ4on9WruGhPYFmQga5QP9g:
+Request failed with status code 500
+
+Failed for channel UCKkASYweDWH_Nqo8rr0SIDA:
+Request failed with status code 500
+
+Failed for channel UCbsk3CGxOjGbWWaiYkFhavQ:
+Request failed with status code 500
+
+Failed for channel UCPTw_UvDWKCYtWfZQAOi7pg:
+Request failed with status code 500
+
+Failed for channel UCvVEcGPPEkn3zSdc-rniGMg:
+Request failed with status code 500
+
+Success for channel UCQfE97UMDGgKCFb7iGM8Btg:
+{
+  "inserted_data": [
+    {
+      "audience_gender": "{'male': 92.0, 'female': 8.0}",
+      "audience_topics": "{'Lifestyle': 18.367346938775512, 'Performing arts': 0.5102040816326531, 'Pop music': 1.530612244897959, 'Simulation video game': 0.5102040816326531, 'Health': 0.5102040816326531, 'Entertainment': 10.204081632653061, 'Hobby': 1.0204081632653061, 'Sports game': 0.5102040816326531, 'Action-adventure game': 5.1020408163265305, 'Role-playing video game': 5.612244897959184, 'Motorsport': 0.5102040816326531, 'Music': 13.77551020408163, 'Religion': 0.5102040816326531, 'Society': 0.5102040816326531, 'Gaming': 10.714285714285714, 'Music of Asia': 13.26530612244898, 'Hip hop music': 0.5102040816326531, 'Humor': 2.0408163265306123, 'Action game': 6.122448979591836, 'Movies': 5.612244897959184, 'Strategy video game': 1.0204081632653061, 'Knowledge': 1.0204081632653061, 'Vehicles': 0.5102040816326531}",
+      "banner_link": "",
+      "channel_id": "UCQfE97UMDGgKCFb7iGM8Btg",
+      "city": "['Email']",
+      "country": "India",
+      "description": "This is for the entertainment, laugh, fun and enjoy..keep watching ,keep sharing, keep tagingEmail :-  baklolvideo@gmail.com",
+      "email": "['baklolvideo@gmail.com']",
+      "gender": "",
+      "handle": "@BakLolVideo",
+      "id": 112,
+      "joined_data": "Joined Aug 25, 2016",
+      "keywords": "['keep', 'entertainment', 'laugh', 'fun', 'enjoy', 'watching', 'sharing', 'tagingemail', 'baklolvideo']",
+      "location": "India",
+      "name": "BakLol Video",
+      "phone": "[]",
+      "photo_link": "https://yt3.googleusercontent.com/ytc/AIdro_mvvYomqUsYVVSykm2KPNCiOOoCh3XGVhgklLDX-k_xdc4=s120-c-k-c0x00ffffff-no-rj",
+      "privacy_status": "public",
+      "social": "defaultdict(<class 'list'>, {'Instagram': ['https://www.instagram.com/baklolvideo/'], 'Twitter': ['https://www.twitter.com/baklolvideo/'], 'Facebook': ['https://www.facebook.com/baklolvideo'], 'Youtube': ['https://www.youtube.com/channel/UCQfE97UMDGgKCFb7iGM8Btg?sub_confirmation=1']})",
+      "subscriber": "12.3000, 000 ",
+      "topics": "['Humor', 'Entertainment', 'Movies']",
+      "topics_categories": "['https://en.wikipedia.org/wiki/Humour', 'https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film']",
+      "uploads": "UUQfE97UMDGgKCFb7iGM8Btg",
+      "verified": "True",
+      "video_count": "398 ",
+      "views": "3,772,971,585 "
+    }
+  ],
+  "inserted_yt_media_id": "[{\"id\": 1972}, {\"id\": 1973}, {\"id\": 1974}, {\"id\": 1975}, {\"id\": 1976}, {\"id\": 1977}, {\"id\": 1978}, {\"id\": 1979}, {\"id\": 1980}, {\"id\": 1981}, {\"id\": 1982}, {\"id\": 1983}, {\"id\": 1984}, {\"id\": 1985}, {\"id\": 1986}, {\"id\": 1987}, {\"id\": 1988}, {\"id\": 1989}, {\"id\": 1990}, {\"id\": 1991}, {\"id\": 1992}, {\"id\": 1993}, {\"id\": 1994}, {\"id\": 1995}, {\"id\": 1996}]"
+}
+
